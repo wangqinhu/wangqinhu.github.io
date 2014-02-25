@@ -1,0 +1,2556 @@
+//
+Type: A
+Author(s): Cho, SH; Lee, J; Jung, KH; Lee, YW; Park, JC; Paek, NC
+Title: Genome-Wide Analysis of Genes Induced by Fusarium graminearum Infection in Resistant and Susceptible Wheat Cultivars
+Journal: JOURNAL OF PLANT BIOLOGY
+Year: 2012
+Volume: 55
+//
+Type: A
+Author(s): Chiang, SF; Swamy, KBS; Hsu, TW; Tsai, ZTY; Lu, HHS; Wang, DY; Tsai, HK
+Title: Analysis of the association between transcription factor binding site variants and distinct accompanying regulatory motifs in yeast
+Journal: GENE
+Year: 2012
+Volume: 491
+//
+Type: A
+Author(s): Mader, U; Schmeisky, AG; Florez, LA; Stulke, J
+Title: SubtiWiki-a comprehensive community resource for the model organism Bacillus subtilis
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2012
+Volume: 40
+//
+Type: A
+Author(s): Sanchez-Arregui, A; Perez-Martinez, AS; Herrera-Estrella, A
+Title: Proteomic Analysis of Trichoderma atroviride Reveals Independent Roles for Transcription Factors BLR-1 and BLR-2 in Light and Darkness
+Journal: EUKARYOTIC CELL
+Year: 2012
+Volume: 11
+//
+Type: A
+Author(s): Gibbons, JG; Beauvais, A; Beau, R; McGary, KL; Latge, JP; Rokas, A
+Title: Global Transcriptome Changes Underlying Colony Growth in the Opportunistic Human Pathogen Aspergillus fumigatus
+Journal: EUKARYOTIC CELL
+Year: 2012
+Volume: 11
+//
+Type: A
+Author(s): Koeda, S; Hosokawa, M; Kang, BC; Tanaka, C; Choi, D; Sano, S; Shiina, T; Doi, M; Yazawa, S
+Title: Defense response of a pepper cultivar cv. Sy-2 is induced at temperatures below 24 degrees C
+Journal: JOURNAL OF PLANT RESEARCH
+Year: 2012
+Volume: 125
+//
+Type: A
+Author(s): Fernandes, AS; Goncalves, AP; Castro, A; Lopes, TA; Gardner, R; Glass, NL; Videira, A
+Title: Modulation of fungal sensitivity to staurosporine by targeting proteins identified by transcriptional profiling
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2011
+Volume: 48
+//
+Type: A
+Author(s): Chi, XX; Hou, JY
+Title: An iterative approach of protein function prediction
+Journal: BMC BIOINFORMATICS
+Year: 2011
+Volume: 12
+//
+Type: A
+Author(s): Petti, AA; Crutchfield, CA; Rabinowitz, JD; Botstein, D
+Title: Survival of starving yeast is correlated with oxidative stress response and nonrespiratory mitochondrial function
+Journal: PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+Year: 2011
+Volume: 108
+//
+Type: A
+Author(s): Mendez-Bravo, A; Calderon-Vazquez, C; Ibarra-Laclette, E; Raya-Gonzalez, J; Ramirez-Chavez, E; Molina-Torres, J; Guevara-Garcia, AA; Lopez-Bucio, J; Herrera-Estrella, L
+Title: Alkamides Activate Jasmonic Acid Biosynthesis and Signaling Pathways and Confer Resistance to Botrytis cinerea in Arabidopsis thaliana
+Journal: PLOS ONE
+Year: 2011
+Volume: 6
+//
+Type: A
+Author(s): Metz, B; Seidl-Seiboth, V; Haarmann, T; Kopchinskiy, A; Lorenz, P; Seiboth, B; Kubicek, CP
+Title: Expression of Biomass-Degrading Enzymes Is a Major Event during Conidium Development in Trichoderma reesei
+Journal: EUKARYOTIC CELL
+Year: 2011
+Volume: 10
+//
+Type: A
+Author(s): Santamaria, R; Rizzetto, L; Bromley, M; Zelante, T; Lee, W; Cavalieri, D; Romani, L; Miller, B; Gut, I; Santos, M; Pierre, P; Bowyer, P; Kapushesky, M
+Title: Systems biology of infectious diseases: a focus on fungal infections
+Journal: IMMUNOBIOLOGY
+Year: 2011
+Volume: 216
+//
+Type: A
+Author(s): de Souza, WR; de Gouvea, PF; Savoldi, M; Malavazi, I; Bernardes, LAD; Goldman, MHS; de Vries, RP; Oliveira, JVD; Goldman, GH
+Title: Transcriptome analysis of Aspergillus niger grown on sugarcane bagasse
+Journal: BIOTECHNOLOGY FOR BIOFUELS
+Year: 2011
+Volume: 4
+//
+Type: A
+Author(s): Yu, L; Gao, L; Li, K; Zhao, Y; Chiu, DKY
+Title: A degree-distribution based hierarchical agglomerative clustering algorithm for protein complexes identification
+Journal: COMPUTATIONAL BIOLOGY AND CHEMISTRY
+Year: 2011
+Volume: 35
+//
+Type: A
+Author(s): Sun, JP; Glass, NL
+Title: Identification of the CRE-1 Cellulolytic Regulon in Neurospora crassa
+Journal: PLOS ONE
+Year: 2011
+Volume: 6
+//
+Type: A
+Author(s): Wang, L; Berndt, P; Xia, XJ; Kahnt, J; Kahmann, R
+Title: A seven-WD40 protein related to human RACK1 regulates mating and virulence in Ustilago maydis
+Journal: MOLECULAR MICROBIOLOGY
+Year: 2011
+Volume: 81
+//
+Type: A
+Author(s): Theis, FJ; Latif, N; Wong, P; Frishman, D
+Title: Complex Principal Component and Correlation Structure of 16 Yeast Genomic Variables
+Journal: MOLECULAR BIOLOGY AND EVOLUTION
+Year: 2011
+Volume: 28
+//
+Type: A
+Author(s): Lysoe, E; Seong, KY; Kistler, HC
+Title: The Transcriptome of Fusarium graminearum During the Infection of Wheat
+Journal: MOLECULAR PLANT-MICROBE INTERACTIONS
+Year: 2011
+Volume: 24
+//
+Type: A
+Author(s): Archambault, A; Stromvik, MV
+Title: PR-10, defensin and cold dehydrin genes are among those over expressed in Oxytropis (Fabaceae) species adapted to the arctic
+Journal: FUNCTIONAL & INTEGRATIVE GENOMICS
+Year: 2011
+Volume: 11
+//
+Type: A
+Author(s): Zhou, GX; Wang, X; Yan, F; Wang, X; Li, R; Cheng, JA; Lou, YG
+Title: Genome-wide transcriptional changes and defence-related chemical profiling of rice in response to infestation by the rice striped stem borer Chilo suppressalis
+Journal: PHYSIOLOGIA PLANTARUM
+Year: 2011
+Volume: 143
+//
+Type: A
+Author(s): Hintz, W; Pinchback, M; de la Bastide, P; Burgess, S; Jacobi, V; Hamelin, R; Breuil, C; Bernier, L
+Title: Functional categorization of unique expressed sequence tags obtained from the yeast-like growth phase of the elm pathogen Ophiostoma novo-ulmi
+Journal: BMC GENOMICS
+Year: 2011
+Volume: 12
+//
+Type: A
+Author(s): Lee, SH; Kim, PJ; Jeong, H
+Title: Global organization of protein complexome in the yeast Saccharomyces cerevisiae
+Journal: BMC SYSTEMS BIOLOGY
+Year: 2011
+Volume: 5
+//
+Type: A
+Author(s): Doyle, CE; Donaldson, ME; Morrison, EN; Saville, BJ
+Title: Ustilago maydis transcript features identified through full-length cDNA analysis
+Journal: MOLECULAR GENETICS AND GENOMICS
+Year: 2011
+Volume: 286
+//
+Type: A
+Author(s): Cangahuala-Inocente, GC; Da Silva, MF; Johnson, JM; Manga, A; van Tuinen, D; Henry, C; Lovato, PE; Dumas-Gaudot, E
+Title: Arbuscular mycorrhizal symbiosis elicits proteome responses opposite of P-starvation in SO4 grapevine rootstock upon root colonisation with two Glomus species
+Journal: MYCORRHIZA
+Year: 2011
+Volume: 21
+//
+Type: A
+Author(s): Moghaddam, AMB; Roudier, F; Seifert, M; Berard, C; Magniette, MLM; Ashtiyani, RK; Houben, A; Colot, V; Mette, MF
+Title: Additive inheritance of histone modifications in Arabidopsis thaliana intra-specific hybrids
+Journal: PLANT JOURNAL
+Year: 2011
+Volume: 67
+//
+Type: A
+Author(s): Natsume-Kitatani, Y; Shiga, M; Mamitsuka, H
+Title: Genome-Wide Integration on Transcription Factors, Histone Acetylation and Gene Expression Reveals Genes Co-Regulated by Histone Modification Patterns
+Journal: PLOS ONE
+Year: 2011
+Volume: 6
+//
+Type: A
+Author(s): Cho, JH; Wang, K; Galas, DJ
+Title: An integrative approach to inferring biologically meaningful gene modules
+Journal: BMC SYSTEMS BIOLOGY
+Year: 2011
+Volume: 5
+//
+Type: A
+Author(s): Clark, WT; Radivojac, P
+Title: Analysis of protein function and its prediction from amino acid sequence
+Journal: PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS
+Year: 2011
+Volume: 79
+//
+Type: A
+Author(s): Ambrosone, A; Costa, A; Martinelli, R; Massarelli, I; De Simone, V; Grillo, S; Leone, A
+Title: Differential gene regulation in potato cells and plants upon abrupt or gradual exposure to water stress
+Journal: ACTA PHYSIOLOGIAE PLANTARUM
+Year: 2011
+Volume: 33
+//
+Type: A
+Author(s): Leelavathi, S; Bhardwaj, A; Kumar, S; Dass, A; Pathak, R; Pandey, SS; Tripathy, BC; Padmalatha, KV; Dhandapani, G; Kanakachari, M; Kumar, PA; Cella, R; Reddy, V
+Title: Genome-wide transcriptome and proteome analyses of tobacco psaA and psbA deletion mutants
+Journal: PLANT MOLECULAR BIOLOGY
+Year: 2011
+Volume: 76
+//
+Type: A
+Author(s): Bidard, F; Benkhali, JA; Coppin, E; Imbeaud, S; Grognet, P; Delacroix, H; Debuchy, R
+Title: Genome-Wide Gene Expression Profiling of Fertilization Competent Mycelium in Opposite Mating Types in the Heterothallic Fungus Podospora anserina
+Journal: PLOS ONE
+Year: 2011
+Volume: 6
+//
+Type: A
+Author(s): Ibarra-Laclette, E; Albert, VA; Perez-Torres, CA; Zamudio-Hernandez, F; Ortega-Estrada, MD; Herrera-Estrella, A; Herrera-Estrella, L
+Title: Transcriptomics and molecular evolutionary rate analysis of the bladderwort (Utricularia), a carnivorous plant with a minimal genome
+Journal: BMC PLANT BIOLOGY
+Year: 2011
+Volume: 11
+//
+Type: A
+Author(s): Bosch, M; Mayer, CD; Cookson, A; Donnison, IS
+Title: Identification of genes involved in cell wall biogenesis in grasses by differential gene expression profiling of elongating and non-elongating maize internodes
+Journal: JOURNAL OF EXPERIMENTAL BOTANY
+Year: 2011
+Volume: 62
+//
+Type: A
+Author(s): Albrecht, D; Kniemeyer, O; Mech, F; Gunzer, M; Brakhage, A; Guthke, R
+Title: On the way toward systems biology of Aspergillus fumigatus infection
+Journal: INTERNATIONAL JOURNAL OF MEDICAL MICROBIOLOGY
+Year: 2011
+Volume: 301
+//
+Type: A
+Author(s): Ndamukong, I; Lapko, H; Cerny, RL; Avramova, Z
+Title: A cytoplasm-specific activity encoded by the Trithorax-like ATX1 gene
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2011
+Volume: 39
+//
+Type: A
+Author(s): Wang, QH; Sun, J; Zhou, M; Yang, HX; Li, Y; Li, X; Lv, SL; Li, X; Li, YX
+Title: A novel network-based method for measuring the functional relationship between gene sets
+Journal: BIOINFORMATICS
+Year: 2011
+Volume: 27
+//
+Type: A
+Author(s): Janska, A; Aprile, A; Zamecnik, J; Cattivelli, L; Ovesna, J
+Title: Transcriptional responses of winter barley to cold indicate nucleosome remodelling as a specific feature of crown tissues
+Journal: FUNCTIONAL & INTEGRATIVE GENOMICS
+Year: 2011
+Volume: 11
+//
+Type: A
+Author(s): Lu, FH; Yoon, MY; Cho, YI; Chung, JW; Kim, KT; Cho, MC; Cheong, SR; Park, YJ
+Title: Transcriptome analysis and SNP/SSR marker information of red pepper variety YCM334 and Taean
+Journal: SCIENTIA HORTICULTURAE
+Year: 2011
+Volume: 129
+//
+Type: A
+Author(s): Liu, ZY; Liu, QJ; Sun, HC; Hou, L; Guo, H; Zhu, YP; Li, D; He, FC
+Title: Evidence for the additions of clustered interacting nodes during the evolution of protein interaction networks from network motifs
+Journal: BMC EVOLUTIONARY BIOLOGY
+Year: 2011
+Volume: 11
+//
+Type: A
+Author(s): Chung, Y; Maharjan, PM; Lee, O; Fujioka, S; Jang, S; Kim, B; Takatsuto, S; Tsujimoto, M; Kim, H; Cho, S; Park, T; Cho, H; Hwang, I; Choe, S
+Title: Auxin stimulates DWARF4 expression and brassinosteroid biosynthesis in Arabidopsis
+Journal: PLANT JOURNAL
+Year: 2011
+Volume: 66
+//
+Type: A
+Author(s): Yoshikawa, K; Tanaka, T; Ida, Y; Furusawa, C; Hirasawa, T; Shimizu, H
+Title: Comprehensive phenotypic analysis of single-gene deletion and overexpression strains of Saccharomyces cerevisiae
+Journal: YEAST
+Year: 2011
+Volume: 28
+//
+Type: A
+Author(s): Valentini, G
+Title: True Path Rule Hierarchical Ensembles for Genome-Wide Gene Function Prediction
+Journal: IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATICS
+Year: 2011
+Volume: 8
+//
+Type: A
+Author(s): Alboresi, A; Dall'Osto, L; Aprile, A; Carillo, P; Roncaglia, E; Cattivelli, L; Bassi, R
+Title: Reactive oxygen species and transcript analysis upon excess light treatment in wild-type Arabidopsis thaliana vs a photosensitive mutant lacking zeaxanthin and lutein
+Journal: BMC PLANT BIOLOGY
+Year: 2011
+Volume: 11
+//
+Type: A
+Author(s): Culp, M
+Title: spa: Semi-Supervised Semi-Parametric Graph-Based Estimation in R
+Journal: JOURNAL OF STATISTICAL SOFTWARE
+Year: 2011
+Volume: 40
+//
+Type: A
+Author(s): Priebe, S; Linde, J; Albrecht, D; Guthke, R; Brakhage, AA
+Title: FungiFun: A web-based application for functional categorization of fungal genes and proteins
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2011
+Volume: 48
+//
+Type: A
+Author(s): Sun, PG; Gao, L; Han, SS
+Title: Identification of overlapping and non-overlapping community structure by fuzzy clustering in complex networks
+Journal: INFORMATION SCIENCES
+Year: 2011
+Volume: 181
+//
+Type: A
+Author(s): Yoo, SK; Hong, SM; Lee, JS; Ahn, JH
+Title: A genetic screen for leaf movement mutants identifies a potential role for AGAMOUS-LIKE 6 (AGL6) in circadian-clock control
+Journal: MOLECULES AND CELLS
+Year: 2011
+Volume: 31
+//
+Type: A
+Author(s): Tian, CG; Li, JY; Glass, NL
+Title: Exploring the bZIP transcription factor regulatory network in Neurospora crassa
+Journal: MICROBIOLOGY-SGM
+Year: 2011
+Volume: 157
+//
+Type: A
+Author(s): Michaut, M; Baryshnikova, A; Costanzo, M; Myers, CL; Andrews, BJ; Boone, C; Bader, GD
+Title: Protein Complexes are Central in the Yeast Genetic Landscape
+Journal: PLOS COMPUTATIONAL BIOLOGY
+Year: 2011
+Volume: 7
+//
+Type: A
+Author(s): Dave, A; Hernandez, ML; He, ZS; Andriotis, VME; Vaistij, FE; Larson, TR; Graham, IA
+Title: 12-Oxo-Phytodienoic Acid Accumulation during Seed Development Represses Seed Germination in Arabidopsis
+Journal: PLANT CELL
+Year: 2011
+Volume: 23
+//
+Type: A
+Author(s): Legay, G; Marouf, E; Berger, D; Neuhaus, JM; Mauch-Mani, B; Slaughter, A
+Title: Identification of genes expressed during the compatible interaction of grapevine with Plasmopara viticola through suppression subtractive hybridization (SSH)
+Journal: EUROPEAN JOURNAL OF PLANT PATHOLOGY
+Year: 2011
+Volume: 129
+//
+Type: A
+Author(s): Wang, Y; Meng, YL; Zhang, M; Tong, XM; Wang, QH; Sun, YY; Quan, JL; Govers, F; Shan, WX
+Title: Infection of Arabidopsis thaliana by Phytophthora parasitica and identification of variation in host specificity
+Journal: MOLECULAR PLANT PATHOLOGY
+Year: 2011
+Volume: 12
+//
+Type: A
+Author(s): Hu, LL; Huang, T; Shi, XH; Lu, WC; Cai, YD; Chou, KC
+Title: Predicting Functions of Proteins in Mouse Based on Weighted Protein-Protein Interaction Network and Protein Hybrid Properties
+Journal: PLOS ONE
+Year: 2011
+Volume: 6
+//
+Type: A
+Author(s): Morton, CO; Varga, JJ; Hornbach, A; Mezger, M; Sennefelder, H; Kneitz, S; Kurzai, O; Krappmann, S; Einsele, H; Nierman, WC; Rogers, TR; Loeffler, J
+Title: The Temporal Dynamics of Differential Gene Expression in Aspergillus fumigatus Interacting with Human Immature Dendritic Cells In Vitro
+Journal: PLOS ONE
+Year: 2011
+Volume: 6
+//
+Type: A
+Author(s): Young, CL; Yuraszeck, T; Robinson, AS
+Title: DECREASED SECRETION AND UNFOLDED PROTEIN RESPONSE UPREGULATION
+Journal: METHODS IN ENZYMOLOGY, VOL 491: UNFOLDED PROTEIN RESPONSE AND CELLULAR STRESS, PT C
+Year: 2011
+Volume: 491
+//
+Type: A
+Author(s): Yang, GL; Chen, XS; Tang, TA; Zhou, RC; Chen, SF; Li, WJ; Ouyang, JH; He, LA; Shi, SH
+Title: Comparative genomics of two ecologically differential populations of Hibiscus tiliaceus under salt stress
+Journal: FUNCTIONAL PLANT BIOLOGY
+Year: 2011
+Volume: 38
+//
+Type: B
+Author(s): Wong, P; Walter, M; Lee, W; Mannhaupt, G; Munsterkotter, M; Mewes, HW; Adam, G; Guldener, U
+Title: FGDB: revisiting the genome annotation of the plant pathogen Fusarium graminearum
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2011
+Volume: 39
+//
+Type: A
+Author(s): Wang, TY; He, F; Hu, QW; Zhang, ZD
+Title: A predicted protein-protein interaction network of the filamentous fungus Neurospora crassa
+Journal: MOLECULAR BIOSYSTEMS
+Year: 2011
+Volume: 7
+//
+Type: A
+Author(s): Moe, KT; Chung, JW; Cho, YI; Moon, JK; Ku, JH; Jung, JK; Lee, J; Park, YJ
+Title: Sequence Information on Simple Sequence Repeats and Single Nucleotide Polymorphisms through Transcriptome Analysis of Mungbean
+Journal: JOURNAL OF INTEGRATIVE PLANT BIOLOGY
+Year: 2011
+Volume: 53
+//
+Type: A
+Author(s): Cuff, AL; Sillitoe, I; Lewis, T; Clegg, AB; Rentzsch, R; Furnham, N; Pellegrini-Calace, M; Jones, D; Thornton, J; Orengo, CA
+Title: Extending CATH: increasing coverage of the protein structure universe and linking structure with function
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2011
+Volume: 39
+//
+Type: A
+Author(s): Yadav, V; Shitiz, K; Pandey, R; Yadav, J
+Title: Chlorophenol stress affects aromatic amino acid biosynthesis - a genome-wide study
+Journal: YEAST
+Year: 2011
+Volume: 28
+//
+Type: A
+Author(s): Lysoe, E; Pasquali, M; Breakspear, A; Kistler, HC
+Title: The Transcription Factor FgStuAp Influences Spore Development, Pathogenicity, and Secondary Metabolism in Fusarium graminearum
+Journal: MOLECULAR PLANT-MICROBE INTERACTIONS
+Year: 2011
+Volume: 24
+//
+Type: A
+Author(s): Silla, CN; Freitas, AA
+Title: A survey of hierarchical classification across different application domains
+Journal: DATA MINING AND KNOWLEDGE DISCOVERY
+Year: 2011
+Volume: 22
+//
+Type: A
+Author(s): Janga, SC; Diaz-Mejia, JJ; Moreno-Hagelsieb, G
+Title: Network-based function prediction and interactomics: The case for metabolic enzymes
+Journal: METABOLIC ENGINEERING
+Year: 2011
+Volume: 13
+//
+Type: A
+Author(s): de Bekker, C; Bruning, O; Jonker, MJ; Breit, TM; Wosten, HAB
+Title: Single cell transcriptomics of neighboring hyphae of Aspergillus niger
+Journal: GENOME BIOLOGY
+Year: 2011
+Volume: 12
+//
+Type: A
+Author(s): Nilsson, J; Grahn, M; Wright, APH
+Title: Proteome-wide evidence for enhanced positive Darwinian selection within intrinsically disordered regions in proteins
+Journal: GENOME BIOLOGY
+Year: 2011
+Volume: 12
+//
+Type: A
+Author(s): Su, CH; Shih, CH; Chang, TH; Tsai, HK
+Title: Genome-wide analysis of the cis-regulatory modules of divergent gene pairs in yeast
+Journal: GENOMICS
+Year: 2010
+Volume: 96
+//
+Type: A
+Author(s): Gonzalez, EG; Krey, G; Espineira, M; Diez, A; Puyet, A; Bautista, JM
+Title: Population Proteomics of the European Hake (Merluccius merluccius)
+Journal: JOURNAL OF PROTEOME RESEARCH
+Year: 2010
+Volume: 9
+//
+Type: A
+Author(s): D'Ippolito, S; Martin, ML; Salcedo, MF; Atencio, HM; Casalongue, CA; Godoy, AV; Fiol, DF
+Title: Transcriptome profiling of Fusarium solani f. sp. eumartii -infected potato tubers provides evidence of an inducible defense response
+Journal: PHYSIOLOGICAL AND MOLECULAR PLANT PATHOLOGY
+Year: 2010
+Volume: 75
+//
+Type: A
+Author(s): Zou, CS; Yu, DQ
+Title: Analysis of the Cold-Responsive Transcriptome in the Mature Pollen of Arabidopsis
+Journal: JOURNAL OF PLANT BIOLOGY
+Year: 2010
+Volume: 53
+//
+Type: A
+Author(s): Oh, GD; Hwang, EM; Shim, EJ; Jeon, SJ; Park, YD
+Title: EST Profiling for Seed-hair Characteristic and Development of EST-SSR and SNP Markers in Carrot
+Journal: KOREAN JOURNAL OF HORTICULTURAL SCIENCE & TECHNOLOGY
+Year: 2010
+Volume: 28
+//
+Type: A
+Author(s): Greenwald, CJ; Kasuga, T; Glass, NL; Shaw, BD; Ebbole, DJ; Wilkinson, HH
+Title: Temporal and Spatial Regulation of Gene Expression During Asexual Development of Neurospora crassa
+Journal: GENETICS
+Year: 2010
+Volume: 186
+//
+Type: A
+Author(s): Ma, MG; Liu, ZL
+Title: Comparative transcriptome profiling analyses during the lag phase uncover YAP1, PDR1, PDR3, RPN4, and HSF1 as key regulatory genes in genomic adaptation to the lignocellulose derived inhibitor HMF for Saccharomyces cerevisiae
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Zhu, W; Hou, JY; Chen, YPP
+Title: Semantic and layered protein function prediction from PPI networks
+Journal: JOURNAL OF THEORETICAL BIOLOGY
+Year: 2010
+Volume: 267
+//
+Type: A
+Author(s): von Mandach, C; Merkl, R
+Title: Genes optimized by evolution for accurate and fast translation encode in Archaea and Bacteria a broad and characteristic spectrum of protein functions
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Wang, JX; Liu, BB; Li, M; Pan, Y
+Title: Identifying protein complexes from interaction networks based on clique percolation and distance restriction
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): He, CY; Zheng, SX; Zhang, JG; Duan, AG; Zeng, YF; Cui, K
+Title: Clonal reproduction and natural variation of Populus canescens patches
+Journal: TREE PHYSIOLOGY
+Year: 2010
+Volume: 30
+//
+Type: A
+Author(s): Horinouchi, T; Yoshikawa, K; Kawaide, R; Furusawa, C; Nakao, Y; Hirasawa, T; Shimizu, H
+Title: Genome-wide expression analysis of Saccharomyces pastorianus orthologous genes using oligonucleotide microarrays
+Journal: JOURNAL OF BIOSCIENCE AND BIOENGINEERING
+Year: 2010
+Volume: 110
+//
+Type: B
+Author(s): Schinko, T; Berger, H; Lee, W; Gallmetzer, A; Pirker, K; Pachlinger, R; Buchner, I; Reichenauer, T; Guldener, U; Strauss, J
+Title: Transcriptome analysis of nitrate assimilation in Aspergillus nidulans reveals connections to nitric oxide metabolism
+Journal: MOLECULAR MICROBIOLOGY
+Year: 2010
+Volume: 78
+//
+Type: A
+Author(s): Arvas, M; Haiminen, N; Smit, B; Rautio, J; Vitikainen, M; Wiebe, M; Martinez, D; Chee, C; Kunkel, J; Sanchez, C; Nelson, MA; Pakula, T; Saloheimo, M; Penttila, M; Kivioja, T
+Title: Detecting novel genes with sparse arrays
+Journal: GENE
+Year: 2010
+Volume: 467
+//
+Type: A
+Author(s): Alkayal, F; Albion, RL; Tillett, RL; Hathwaik, LT; Lemos, MS; Cushman, JC
+Title: Expressed sequence tag (EST) profiling in hyper saline shocked Dunaliella salina reveals high expression of protein synthetic apparatus components
+Journal: PLANT SCIENCE
+Year: 2010
+Volume: 179
+//
+Type: A
+Author(s): Hartsperger, ML; Blochl, F; Stumpflen, V; Theis, FJ
+Title: Structuring heterogeneous biological information using fuzzy clustering of k-partite graphs
+Journal: BMC BIOINFORMATICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Li, LM; Ching, WK; Chan, YM; Mamitsuka, H
+Title: On network-based kernel methods for protein-protein interactions with applications in protein functions prediction
+Journal: JOURNAL OF SYSTEMS SCIENCE & COMPLEXITY
+Year: 2010
+Volume: 23
+//
+Type: A
+Author(s): Hacquard, S; Delaruelle, C; Legue, V; Tisserant, E; Kohler, A; Frey, P; Martin, F; Duplessis, S
+Title: Laser Capture Microdissection of Uredinia Formed by Melampsora larici-populina Revealed a Transcriptional Switch Between Biotrophy and Sporulation
+Journal: MOLECULAR PLANT-MICROBE INTERACTIONS
+Year: 2010
+Volume: 23
+//
+Type: A
+Author(s): Cobos, R; Barreiro, C; Mateos, RM; Coque, JJR
+Title: Cytoplasmic- and extracellular-proteome analysis of Diplodia seriata: a phytopathogenic fungus involved in grapevine decline
+Journal: PROTEOME SCIENCE
+Year: 2010
+Volume: 8
+//
+Type: A
+Author(s): Ranea, JAG; Morilla, I; Lees, JG; Reid, AJ; Yeats, C; Clegg, AB; Sanchez-Jimenez, F; Orengo, C
+Title: Finding the "Dark Matter'' in Human and Yeast Protein Network Prediction and Modelling
+Journal: PLOS COMPUTATIONAL BIOLOGY
+Year: 2010
+Volume: 6
+//
+Type: A
+Author(s): Bruns, S; Seidler, M; Albrecht, D; Salvenmoser, S; Remme, N; Hertweck, C; Brakhage, AA; Kniemeyer, O; Muller, FMC
+Title: Functional genomic profiling of Aspergillus fumigatus biofilm reveals enhanced production of the mycotoxin gliotoxin
+Journal: PROTEOMICS
+Year: 2010
+Volume: 10
+//
+Type: B
+Author(s): Grisel, N; Zoller, S; Kunzli-Gontarczyk, M; Lampart, T; Munsterkotter, M; Brunner, I; Bovet, L; Metraux, JP; Sperisen, C
+Title: Transcriptome responses to aluminum stress in roots of aspen (Populus tremula)
+Journal: BMC PLANT BIOLOGY
+Year: 2010
+Volume: 10
+//
+Type: A
+Author(s): Hoff, B; Kamerewerd, J; Sigl, C; Mitterbauer, R; Zadra, I; Kurnsteiner, H; Kuck, U
+Title: Two Components of a velvet-Like Complex Control Hyphal Morphogenesis, Conidiophore Development, and Penicillin Biosynthesis in Penicillium chrysogenum
+Journal: EUKARYOTIC CELL
+Year: 2010
+Volume: 9
+//
+Type: A
+Author(s): Baldwin, TK; Gaffoor, I; Antoniw, J; Andries, C; Guenther, J; Urban, M; Hallen-Adams, HE; Pitkin, J; Hammond-Kosack, KE; Trail, F
+Title: A Partial Chromosomal Deletion Caused by Random Plasmid Integration Resulted in a Reduced Virulence Phenotype in Fusarium graminearum
+Journal: MOLECULAR PLANT-MICROBE INTERACTIONS
+Year: 2010
+Volume: 23
+//
+Type: A
+Author(s): Liang, Y; Rahman, MH; Strelkov, SE; Kav, NNV
+Title: Developmentally induced changes in the sclerotial proteome of Sclerotinia sclerotiorum
+Journal: FUNGAL BIOLOGY
+Year: 2010
+Volume: 114
+//
+Type: A
+Author(s): Kim, YM; Bouras, N; Kay, NNV; Strelkov, SE
+Title: Inhibition of photosynthesis and modification of the wheat leaf proteome by Ptr ToxB: A host-specific toxin from the fungal pathogen Pyrenophora tritici-repentis
+Journal: PROTEOMICS
+Year: 2010
+Volume: 10
+//
+Type: A
+Author(s): Teutschbein, J; Albrecht, D; Potsch, M; Guthke, R; Aimanianda, V; Clavaud, C; Latge, JP; Brakhage, AA; Kniemeyer, O
+Title: Proteome Profiling and Functional Classification of Intracellular Proteins from Conidia of the Human-Pathogenic Mold Aspergillus fumigatus
+Journal: JOURNAL OF PROTEOME RESEARCH
+Year: 2010
+Volume: 9
+//
+Type: A
+Author(s): Ma, MG; Liu, ZL
+Title: Mechanisms of ethanol tolerance in Saccharomyces cerevisiae
+Journal: APPLIED MICROBIOLOGY AND BIOTECHNOLOGY
+Year: 2010
+Volume: 87
+//
+Type: A
+Author(s): Recorbet, G; Valot, B; Robert, F; Gianinazzi-Pearson, V; Dumas-Gaudot, E
+Title: Identification of in planta-expressed arbuscular mycorrhizal fungal proteins upon comparison of the root proteomes of Medicago truncatula colonised with two Glomus species
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2010
+Volume: 47
+//
+Type: A
+Author(s): Sun, J; Zhang, Y; Thiyagarajan, V; Qian, PY; Qiu, JW
+Title: Protein expression during the embryonic development of a gastropod
+Journal: PROTEOMICS
+Year: 2010
+Volume: 10
+//
+Type: A
+Author(s): Klix, V; Nowrousian, M; Ringelberg, C; Loros, JJ; Dunlap, JC; Poggeler, S
+Title: Functional Characterization of MAT1-1-Specific Mating-Type Genes in the Homothallic Ascomycete Sordaria macrospora Provides New Insights into Essential and Nonessential Sexual Regulators.
+Journal: EUKARYOTIC CELL
+Year: 2010
+Volume: 9
+//
+Type: A
+Author(s): Liang, Y; Strelkov, SE; Kav, NNV
+Title: The Proteome of Liquid Sclerotial Exudates from Sclerotinia sclerotiorum
+Journal: JOURNAL OF PROTEOME RESEARCH
+Year: 2010
+Volume: 9
+//
+Type: A
+Author(s): Jami, MS; Barreiro, C; Garcia-Estrada, C; Martin, JF
+Title: Proteome Analysis of the Penicillin Producer Penicillium chrysogenum CHARACTERIZATION OF PROTEIN CHANGES DURING THE INDUSTRIAL STRAIN IMPROVEMENT
+Journal: MOLECULAR & CELLULAR PROTEOMICS
+Year: 2010
+Volume: 9
+//
+Type: A
+Author(s): Dong, QW; Zhou, SG; Deng, L; Guan, JH
+Title: Gene Ontology-Based Protein Function Prediction by Using Sequence Composition Information
+Journal: PROTEIN AND PEPTIDE LETTERS
+Year: 2010
+Volume: 17
+//
+Type: A
+Author(s): Staschke, KA; Dey, S; Zaborske, JM; Palam, LR; McClintick, JN; Pan, T; Edenberg, HJ; Wek, RC
+Title: Integration of General Amino Acid Control and Target of Rapamycin (TOR) Regulatory Pathways in Nitrogen Assimilation in Yeast
+Journal: JOURNAL OF BIOLOGICAL CHEMISTRY
+Year: 2010
+Volume: 285
+//
+Type: A
+Author(s): Schmid, J; Muller-Hagen, D; Bekel, T; Funk, L; Stahl, U; Sieber, V; Meyer, V
+Title: Transcriptome sequencing and comparative transcriptome analysis of the scleroglucan producer Sclerotium rolfsii
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Ruiz-Roig, C; Vieitez, C; Posas, F; de Nadal, E
+Title: The Rpd3L HDAC complex is essential for the heat stress response in yeast
+Journal: MOLECULAR MICROBIOLOGY
+Year: 2010
+Volume: 76
+//
+Type: A
+Author(s): Aoun, M; Jacobi, V; Boyle, B; Bernier, L
+Title: Identification and monitoring of Ulmus americana transcripts during in vitro interactions with the Dutch elm disease pathogen Ophiostoma novo-ulmi
+Journal: PHYSIOLOGICAL AND MOLECULAR PLANT PATHOLOGY
+Year: 2010
+Volume: 74
+//
+Type: A
+Author(s): Foley, ME; Anderson, JV; Chao, WS; Dogramaci, M; Horvath, DP
+Title: Initial changes in the transcriptome of Euphorbia esula seeds induced to germinate with a combination of constant and diurnal alternating temperatures
+Journal: PLANT MOLECULAR BIOLOGY
+Year: 2010
+Volume: 73
+//
+Type: A
+Author(s): Dogramaci, M; Horvath, DP; Chao, WS; Foley, ME; Christoffers, MJ; Anderson, JV
+Title: Low temperatures impact dormancy status, flowering competence, and transcript profiles in crown buds of leafy spurge
+Journal: PLANT MOLECULAR BIOLOGY
+Year: 2010
+Volume: 73
+//
+Type: A
+Author(s): Fu, JJ; Thiemann, A; Schrag, TA; Melchinger, AE; Scholten, S; Frisch, M
+Title: Dissecting grain yield pathways and their interactions with grain dry matter content by a two-step correlation approach with maize seedling transcriptome
+Journal: BMC PLANT BIOLOGY
+Year: 2010
+Volume: 10
+//
+Type: A
+Author(s): Wang, YQ; Shen, JK; Berglund, T; Ohlsson, AB; Tang, XF; Zhou, ZK; Wu, RY; Zhou, XH; Chen, JN
+Title: Analysis of expressed sequence tags from Ginkgo mature foliage in China
+Journal: TREE GENETICS & GENOMES
+Year: 2010
+Volume: 6
+//
+Type: A
+Author(s): Nepusz, T; Sasidharan, R; Paccanaro, A
+Title: SCPS: a fast implementation of a spectral method for detecting protein families on a genome-wide scale
+Journal: BMC BIOINFORMATICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Re, M; Valentini, G
+Title: Integration of heterogeneous data sources for gene function prediction using decision templates and ensembles of learning machines
+Journal: NEUROCOMPUTING
+Year: 2010
+Volume: 73
+//
+Type: A
+Author(s): de Groot, NS; Ventura, S
+Title: Protein Aggregation Profile of the Bacterial Cytosol
+Journal: PLOS ONE
+Year: 2010
+Volume: 5
+//
+Type: A
+Author(s): Qin, QP; McCallum, EJ; Kaas, Q; Suda, J; Saska, I; Craik, DJ; Mylne, JS
+Title: Identification of candidates for cyclotide biosynthesis and cyclisation by expressed sequence tag analysis of Oldenlandia affinis
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Kanapin, AA; Mulder, N; Kuznetsov, VA
+Title: Projection of gene-protein networks to the functional space of the proteome and its application to analysis of organism complexity
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Tisch, D; Schmoll, M
+Title: Light regulation of metabolic pathways in fungi
+Journal: APPLIED MICROBIOLOGY AND BIOTECHNOLOGY
+Year: 2010
+Volume: 85
+//
+Type: A
+Author(s): Chagoyen, M; Pazos, F
+Title: Quantifying the biological significance of gene ontology biological processes-implications for the analysis of systems-wide data
+Journal: BIOINFORMATICS
+Year: 2010
+Volume: 26
+//
+Type: A
+Author(s): Reid, AJ; Ranea, JAG; Orengo, CA
+Title: Comparative evolutionary analysis of protein complexes in E. coli and yeast
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Albrecht, D; Guthke, R; Brakhage, AA; Kniemeyer, O
+Title: Integrative analysis of the heat shock response in Aspergillus fumigatus
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): van Zutphen, T; Baerends, RJS; Susanna, KA; de Jong, A; Kuipers, OP; Veenhuis, M; van der Klei, IJ
+Title: Adaptation of Hansenula polymorpha to methanol: a transcriptome analysis
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Pandolfi, V; Jorge, EC; Melo, CMR; Albuquerque, ACS; Carrer, H
+Title: Gene expression profile of the plant pathogen Fusarium graminearum under the antagonistic effect of Pantoea agglomerans
+Journal: GENETICS AND MOLECULAR RESEARCH
+Year: 2010
+Volume: 9
+//
+Type: A
+Author(s): Shi, Y; Hasan, M; Cai, ZP; Lin, GH; Schuurmans, D
+Title: Linear Coherent Bi-cluster Discovery via Beam Detection and Sample Set Clustering
+Journal: COMBINATORIAL OPTIMIZATION AND APPLICATIONS, PT 1
+Year: 2010
+Volume: 6508
+//
+Type: A
+Author(s): Re, M; Valentini, G
+Title: An Experimental Comparison of Hierarchical Bayes and True Path Rule Ensembles for Protein Function Prediction
+Journal: MULTIPLE CLASSIFIER SYSTEMS, PROCEEDINGS
+Year: 2010
+Volume: 5997
+//
+Type: A
+Author(s): Yu, L; Gao, L; Sun, PG
+Title: A hybrid clustering algorithm for identifying modules in Protein-Protein Interaction networks
+Journal: INTERNATIONAL JOURNAL OF DATA MINING AND BIOINFORMATICS
+Year: 2010
+Volume: 4
+//
+Type: A
+Author(s): Li, M; Wang, JX; Chen, JE; Cai, Z; Chen, G
+Title: Identifying the overlapping complexes in protein interaction networks
+Journal: INTERNATIONAL JOURNAL OF DATA MINING AND BIOINFORMATICS
+Year: 2010
+Volume: 4
+//
+Type: A
+Author(s): Khan, A; Bassett, S; Voisey, C; Gaborit, C; Johnson, L; Christensen, M; McCulloch, A; Bryan, G; Johnson, R
+Title: Gene expression profiling of the endophytic fungus Neotyphodium lolii in association with its host plant perennial ryegrass
+Journal: AUSTRALASIAN PLANT PATHOLOGY
+Year: 2010
+Volume: 39
+//
+Type: B
+Author(s): Ruepp, A; Waegele, B; Lechner, M; Brauner, B; Dunger-Kaltenbach, I; Fobo, G; Frishman, G; Montrone, C; Mewes, HW
+Title: CORUM: the comprehensive resource of mammalian protein complexes-2009
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2010
+Volume: 38
+//
+Type: A
+Author(s): Park, B; Han, K
+Title: A reliability measure of protein-protein interactions and a reliability measure-based search engine
+Journal: COMPUTER METHODS IN BIOMECHANICS AND BIOMEDICAL ENGINEERING
+Year: 2010
+Volume: 13
+//
+Type: A
+Author(s): Kanapin, AA; Mulder, N; Kuznetsov, VA
+Title: Projection of gene-protein networks to the functional space of the proteome and its application to analysis of organism complexity
+Journal: BMC GENOMICS
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Ferrezuelo, F; Colomina, N; Futcher, B; Aldea, M
+Title: The transcriptional network activated by Cln3 cyclin at the G1-to-S transition of the yeast cell cycle
+Journal: GENOME BIOLOGY
+Year: 2010
+Volume: 11
+//
+Type: A
+Author(s): Tian, CG; Beeson, WT; Iavarone, AT; Sun, JP; Marletta, MA; Cate, JHD; Glass, NL
+Title: Systems analysis of plant cell wall degradation by the model filamentous fungus Neurospora crassa
+Journal: PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+Year: 2009
+Volume: 106
+//
+Type: A
+Author(s): Benbadis, L; Cot, M; Rigoulet, M; Francois, J
+Title: Isolation of two cell populations from yeast during high-level alcoholic fermentation that resemble quiescent and nonquiescent cells from the stationary phase on glucose
+Journal: FEMS YEAST RESEARCH
+Year: 2009
+Volume: 9
+//
+Type: A
+Author(s): Gibbons, JG; Janson, EM; Hittinger, CT; Johnston, M; Abbot, P; Rokas, A
+Title: Benchmarking Next-Generation Transcriptome Sequencing for Functional and Evolutionary Genomics
+Journal: MOLECULAR BIOLOGY AND EVOLUTION
+Year: 2009
+Volume: 26
+//
+Type: A
+Author(s): Gardiner, DM; Kazan, K; Manners, JM
+Title: Novel Genes of Fusarium graminearum That Negatively Regulate Deoxynivalenol Production and Virulence
+Journal: MOLECULAR PLANT-MICROBE INTERACTIONS
+Year: 2009
+Volume: 22
+//
+Type: A
+Author(s): Trzcinska-Danielewicz, J; Bilska, A; Fronk, J; Zielenkiewicz, P; Jarochowska, E; Roszczyk, M; Jonczyk, M; Axentowicz, E; Skoneczny, M; Sowinski, P
+Title: Global analysis of gene expression in maize leaves treated with low temperature I. Moderate chilling (14 degrees C)
+Journal: PLANT SCIENCE
+Year: 2009
+Volume: 177
+//
+Type: A
+Author(s): Hutchison, E; Brown, S; Tian, CG; Glass, NL
+Title: Transcriptional profiling and functional analysis of heterokaryon incompatibility in Neurospora crassa reveals that reactive oxygen species, but not metacaspases, are associated with programmed cell death
+Journal: MICROBIOLOGY-SGM
+Year: 2009
+Volume: 155
+//
+Type: B
+Author(s): Vollmeister, E; Haag, C; Zarnack, K; Baumann, S; Konig, J; Mannhaupt, G; Feldbrugge, M
+Title: Tandem KH domains of Khd4 recognize AUACCC and are essential for regulation of morphology as well as pathogenicity in Ustilago maydis
+Journal: RNA-A PUBLICATION OF THE RNA SOCIETY
+Year: 2009
+Volume: 15
+//
+Type: A
+Author(s): Meyer, V; Arentshorst, M; Flitter, SJ; Nitsche, BM; Kwon, MJ; Reynaga-Pena, CG; Bartnicki-Garcia, S; van den Hondel, CAMJJ; Ram, AFJ
+Title: Reconstruction of Signaling Networks Regulating Fungal Morphogenesis by Transcriptomics
+Journal: EUKARYOTIC CELL
+Year: 2009
+Volume: 8
+//
+Type: A
+Author(s): Lichtenberg, J; Yilmaz, A; Welch, JD; Kurz, K; Liang, XY; Drews, F; Ecker, K; Lee, SS; Geisler, M; Grotewold, E; Welch, LR
+Title: The word landscape of the non-coding segments of the Arabidopsis thaliana genome
+Journal: BMC GENOMICS
+Year: 2009
+Volume: 10
+//
+Type: A
+Author(s): Lal, K; Bromley, E; Oakes, R; Prieto, JH; Sanderson, SJ; Kurian, D; Hunt, L; Yates, JR; Wastling, JM; Sinden, RE; Tomley, FM
+Title: Proteomic comparison of four Eimeria tenella life-cycle stages: Unsporulated oocyst, sporulated oocyst, sporozoite and second-generation merozoite
+Journal: PROTEOMICS
+Year: 2009
+Volume: 9
+//
+Type: A
+Author(s): Ludwikow, A; Kierzek, D; Gallois, P; Zeef, L; Sadowski, J
+Title: Gene expression profiling of ozone-treated Arabidopsis abi1td insertional mutant: protein phosphatase 2C ABI1 modulates biosynthesis ratio of ABA and ethylene
+Journal: PLANTA
+Year: 2009
+Volume: 230
+//
+Type: A
+Author(s): Grobei, MA; Qeli, E; Brunner, E; Rehrauer, H; Zhang, RX; Roschitzki, B; Basler, K; Ahrens, CH; Grossniklaus, U
+Title: Deterministic protein inference for shotgun proteomics data provides new insights into Arabidopsis pollen development and function
+Journal: GENOME RESEARCH
+Year: 2009
+Volume: 19
+//
+Type: A
+Author(s): Huttenhower, C; Hibbs, MA; Myers, CL; Caudy, AA; Hess, DC; Troyanskaya, OG
+Title: The impact of incomplete knowledge on evaluation: an experimental benchmark for protein function prediction
+Journal: BIOINFORMATICS
+Year: 2009
+Volume: 25
+//
+Type: A
+Author(s): Zhang, H; Chen, JA; Wang, YQ; Peng, L; Dong, XX; Lu, Y; Keating, AE; Jiang, TJ
+Title: A Computationally Guided Protein-Interaction Screen Uncovers Coiled-Coil Interactions Involved in Vesicular Trafficking
+Journal: JOURNAL OF MOLECULAR BIOLOGY
+Year: 2009
+Volume: 392
+//
+Type: A
+Author(s): Sun, PG; Gao, L
+Title: A fast iterative-clique percolation method for identifying functional modules in protein interaction networks
+Journal: FRONTIERS OF COMPUTER SCIENCE IN CHINA
+Year: 2009
+Volume: 3
+//
+Type: A
+Author(s): Videira, A; Kasuga, T; Tian, CG; Lemos, C; Castro, A; Glass, NL
+Title: Transcriptional analysis of the response of Neurospora crassa to phytosphingosine reveals links to mitochondrial function
+Journal: MICROBIOLOGY-SGM
+Year: 2009
+Volume: 155
+//
+Type: A
+Author(s): Cuff, A; Redfern, OC; Greene, L; Sillitoe, I; Lewis, T; Dibley, M; Reid, A; Pearl, F; Dallman, T; Todd, A; Garratt, R; Thornton, J; Orengo, C
+Title: The CATH Hierarchy Revisited-Structural Divergence in Domain Superfamilies and the Continuity of Fold Space
+Journal: STRUCTURE
+Year: 2009
+Volume: 17
+//
+Type: A
+Author(s): Takahara, H; Dolf, A; Endl, E; O'Connell, R
+Title: Flow cytometric purification of Colletotrichum higginsianum biotrophic hyphae from Arabidopsis leaves for stage-specific transcriptome analysis
+Journal: PLANT JOURNAL
+Year: 2009
+Volume: 59
+//
+Type: A
+Author(s): Li, GJ; Ma, Q; Tang, HB; Paterson, AH; Xu, Y
+Title: QUBIC: a qualitative biclustering algorithm for analyses of gene expression data
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2009
+Volume: 37
+//
+Type: A
+Author(s): Dinh, TN; Nagahisa, K; Yoshikawa, K; Hirasawa, T; Furusawa, C; Shimizu, H
+Title: Analysis of adaptation to high ethanol concentration in Saccharomyces cerevisiae using DNA microarray
+Journal: BIOPROCESS AND BIOSYSTEMS ENGINEERING
+Year: 2009
+Volume: 32
+//
+Type: A
+Author(s): Konig, J; Baumann, S; Koepke, J; Pohlmann, T; Zarnack, K; Feldbrugge, M
+Title: The fungal RNA-binding protein Rrm4 mediates long-distance transport of ubi1 and rho3 mRNAs
+Journal: EMBO JOURNAL
+Year: 2009
+Volume: 28
+//
+Type: A
+Author(s): Kwon, MJ; Oh, E; Lee, S; Roh, MR; Kim, SE; Lee, Y; Choi, YL; In, YH; Park, T; Koh, SS; Shin, YK
+Title: Identification of Novel Reference Genes Using Multiplatform Expression Data and Their Validation for Quantitative Gene Expression Analysis
+Journal: PLOS ONE
+Year: 2009
+Volume: 4
+//
+Type: A
+Author(s): Khozoie, C; Pleass, RJ; Avery, SV
+Title: The Antimalarial Drug Quinine Disrupts Tat2p-mediated Tryptophan Transport and Causes Tryptophan Starvation
+Journal: JOURNAL OF BIOLOGICAL CHEMISTRY
+Year: 2009
+Volume: 284
+//
+Type: A
+Author(s): Zihler, A; Le Blay, G; de Wouters, T; Lacroix, C; Braegger, CP; Lehner, A; Tischler, P; Rattei, T; Hachler, H; Stephan, R
+Title: In vitro inhibition activity of different bacteriocin-producing Escherichia coli against Salmonella strains isolated from clinical cases
+Journal: LETTERS IN APPLIED MICROBIOLOGY
+Year: 2009
+Volume: 49
+//
+Type: A
+Author(s): Aprile, A; Mastrangelo, AM; De Leonardis, AM; Galiba, G; Roncaglia, E; Ferrari, F; De Bellis, L; Turchi, L; Giuliano, G; Cattivelli, L
+Title: Transcriptional profiling in response to terminal drought stress reveals differential responses along the wheat genome
+Journal: BMC GENOMICS
+Year: 2009
+Volume: 10
+//
+Type: A
+Author(s): Rizzini, FM; Bonghi, C; Tonutti, P
+Title: Postharvest water loss induces marked changes in transcript profiling in skins of wine grape berries
+Journal: POSTHARVEST BIOLOGY AND TECHNOLOGY
+Year: 2009
+Volume: 52
+//
+Type: A
+Author(s): Sacher, O; Reitz, M; Gasteiger, J
+Title: Investigations of Enzyme-Catalyzed Reactions Based on Physicochemical Descriptors Applied to Hydrolases
+Journal: JOURNAL OF CHEMICAL INFORMATION AND MODELING
+Year: 2009
+Volume: 49
+//
+Type: A
+Author(s): Huang, JY
+Title: Tomography of functional organization in protein-protein interaction network
+Journal: PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+Year: 2009
+Volume: 388
+//
+Type: A
+Author(s): Pandey, G; Myers, CL; Kumar, V
+Title: Incorporating functional inter-relationships into protein function prediction algorithms
+Journal: BMC BIOINFORMATICS
+Year: 2009
+Volume: 10
+//
+Type: A
+Author(s): Blanco, F; Salinas, P; Cecchini, NM; Jordana, X; Van Hummelen, P; Alvarez, ME; Holuigue, L
+Title: Early genomic responses to salicylic acid in Arabidopsis
+Journal: PLANT MOLECULAR BIOLOGY
+Year: 2009
+Volume: 70
+//
+Type: A
+Author(s): Golkari, S; Gilbert, J; Ban, T; Procunier, JD
+Title: QTL-specific microarray gene expression analysis of wheat resistance to Fusarium head blight in Sumai-3 and two susceptible NILs
+Journal: GENOME
+Year: 2009
+Volume: 52
+//
+Type: A
+Author(s): Schlink, K
+Title: Identification and characterization of differentially expressed genes from Fagus sylvatica roots after infection with Phytophthora citricola
+Journal: PLANT CELL REPORTS
+Year: 2009
+Volume: 28
+//
+Type: A
+Author(s): Chen, CH; Ringelberg, CS; Gross, RH; Dunlap, JC; Loros, JJ
+Title: Genome-wide analysis of light-inducible responses reveals hierarchical light signalling in Neurospora
+Journal: EMBO JOURNAL
+Year: 2009
+Volume: 28
+//
+Type: B
+Author(s): Kasuga, T; Mannhaupt, G; Glass, NL
+Title: Relationship between Phylogenetic Distribution and Genomic Features in Neurospora crassa
+Journal: PLOS ONE
+Year: 2009
+Volume: 4
+//
+Type: A
+Author(s): Balbuena, TS; Silveira, V; Junqueira, M; Dias, LLC; Santa-Catarina, C; Shevchenko, A; Floh, EIS
+Title: Changes in the 2-DE protein profile during zygotic embryogenesis in the Brazilian Pine (Araucaria angustifolia)
+Journal: JOURNAL OF PROTEOMICS
+Year: 2009
+Volume: 72
+//
+Type: A
+Author(s): Addou, S; Rentzsch, R; Lee, D; Orengo, CA
+Title: Domain-Based and Family-Specific Sequence Identity Thresholds Increase the Levels of Reliable Protein Function Transfer
+Journal: JOURNAL OF MOLECULAR BIOLOGY
+Year: 2009
+Volume: 387
+//
+Type: A
+Author(s): Lal, K; Prieto, JH; Bromley, E; Sanderson, SJ; Yates, JR; Wastling, JM; Tomley, FM; Sinden, RE
+Title: Characterisation of Plasmodium invasive organelles; an ookinete microneme proteome
+Journal: PROTEOMICS
+Year: 2009
+Volume: 9
+//
+Type: A
+Author(s): Cao, T; Kim, YM; Kav, NNV; Strelkov, SE
+Title: A proteomic evaluation of Pyrenophora tritici-repentis, causal agent of tan spot of wheat, reveals major differences between virulent and avirulent isolates
+Journal: PROTEOMICS
+Year: 2009
+Volume: 9
+//
+Type: A
+Author(s): Cho, WK; Chen, XY; Uddin, NM; Rim, Y; Moon, J; Jung, JH; Shi, C; Chu, H; Kim, S; Kim, SW; Park, ZY; Kim, JY
+Title: Comprehensive proteome analysis of lettuce latex using multidimensional protein-identification technology
+Journal: PHYTOCHEMISTRY
+Year: 2009
+Volume: 70
+//
+Type: A
+Author(s): Urano, K; Maruyama, K; Ogata, Y; Morishita, Y; Takeda, M; Sakurai, N; Suzuki, H; Saito, K; Shibata, D; Kobayashi, M; Yamaguchi-Shinozaki, K; Shinozaki, K
+Title: Characterization of the ABA-regulated global responses to dehydration in Arabidopsis by metabolomics
+Journal: PLANT JOURNAL
+Year: 2009
+Volume: 57
+//
+Type: A
+Author(s): Yagi, N; Takeda, S; Matsumoto, N; Okada, K
+Title: VAJ/GFA1/CLO is Involved in the Directional Control of Floral Organ Growth
+Journal: PLANT AND CELL PHYSIOLOGY
+Year: 2009
+Volume: 50
+//
+Type: A
+Author(s): Jacobs, DI; Olsthoorn, MMA; Maillet, I; Akeroyd, M; Breestraat, S; Donkers, S; van der Hoeven, RAM; van den Hondel, CAMJJ; Kooistra, R; Lapointe, T; Menke, H; Meulenberg, R; Misset, M; Muller, WH; van Peij, NNME; Ram, A; Rodriguez, S; Roelofs, MS; Roubos, JA; van Tilborg, MWEM; Verkleij, AJ; Pel, HJ; Stam, H; Sagt, CMJ
+Title: Effective lead selection for improved protein production in Aspergillus niger based on integrated genomics
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2009
+Volume: 46
+//
+Type: A
+Author(s): Gibbons, JG; Rokas, A
+Title: Comparative and Functional Characterization of Intragenic Tandem Repeats in 10 Aspergillus Genomes
+Journal: MOLECULAR BIOLOGY AND EVOLUTION
+Year: 2009
+Volume: 26
+//
+Type: A
+Author(s): Harrigan, GG; Stork, LG; Riordan, SG; Reynolds, TL; Taylor, JP; Masucci, JD; Cao, YW; LeDeaux, JR; Pandravada, A; Glenn, KC
+Title: Impact of environmental and genetic factors on expression of maize gene classes: Relevance to grain composition
+Journal: JOURNAL OF FOOD COMPOSITION AND ANALYSIS
+Year: 2009
+Volume: 22
+//
+Type: A
+Author(s): Stimpson, AJ; Pereira, RS; Kiss, JZ; Correll, MJ
+Title: Extraction and labeling methods for microarrays using small amounts of plant tissue
+Journal: PHYSIOLOGIA PLANTARUM
+Year: 2009
+Volume: 135
+//
+Type: A
+Author(s): Harris, DM; van der Krogt, ZA; Klaassen, P; Raamsdonk, LM; Hage, S; van den Berg, MA; Bovenberg, RAL; Pronk, JT; Daran, JM
+Title: Exploring and dissecting genome-wide gene expression responses of Penicillium chrysogenum to phenylacetic acid consumption and penicillinG production
+Journal: BMC GENOMICS
+Year: 2009
+Volume: 10
+//
+Type: A
+Author(s): Yoshikawa, K; Tanaka, T; Furusawa, C; Nagahisa, K; Hirasawa, T; Shimizu, H
+Title: Comprehensive phenotypic analysis for identification of genes affecting growth under ethanol stress in Saccharomyces cerevisiae
+Journal: FEMS YEAST RESEARCH
+Year: 2009
+Volume: 9
+//
+Type: A
+Author(s): Kumari, S; Panjabi , V; Kushwaha, H; Sopory, S; Singla-Pareek, S; Pareek, A
+Title: Transcriptome map for seedling stage specific salinity stress response indicates a specific set of genes as candidate for saline tolerance in Oryza sativa L.
+Journal: FUNCTIONAL & INTEGRATIVE GENOMICS
+Year: 2009
+Volume: 9
+//
+Type: A
+Author(s): Morohashi, K; Grotewold, E
+Title: A Systems Approach Reveals Regulatory Circuitry for Arabidopsis Trichome Initiation by the GL3 and GL1 Selectors
+Journal: PLOS GENETICS
+Year: 2009
+Volume: 5
+//
+Type: A
+Author(s): Nguyen, HT; Leipner, J; Stamp, P; Guerra-Peraza, O
+Title: Low temperature stress in maize (Zea mays L.) induces genes involved in photosynthesis and signal transduction as studied by suppression subtractive hybridization
+Journal: PLANT PHYSIOLOGY AND BIOCHEMISTRY
+Year: 2009
+Volume: 47
+//
+Type: A
+Author(s): Rokas, A
+Title: The effect of domestication on the fungal proteome
+Journal: TRENDS IN GENETICS
+Year: 2009
+Volume: 25
+//
+Type: A
+Author(s): Azaiez, A; Boyle, B; Levee, V; Seguin, A
+Title: Transcriptome Profiling in Hybrid Poplar Following Interactions with Melampsora Rust Fungi
+Journal: MOLECULAR PLANT-MICROBE INTERACTIONS
+Year: 2009
+Volume: 22
+//
+Type: A
+Author(s): Jorgensen, TR; Goosen, T; den Hondel, CAMJJ; Ram, AFJ; Iversen, JJL
+Title: Transcriptomic comparison of Aspergillus niger growing on two different sugars reveals coordinated regulation of the secretory pathway
+Journal: BMC GENOMICS
+Year: 2009
+Volume: 10
+//
+Type: A
+Author(s): Aloui, A; Recorbet, G; Gollotte, A; Robert, F; Valot, B; Gianinazzi-Pearson, V; Aschi-Smiti, S; Dumas-Gaudot, E
+Title: On the mechanisms of cadmium stress alleviation in Medicago truncatula by arbuscular mycorrhizal symbiosis: A root proteomic study
+Journal: PROTEOMICS
+Year: 2009
+Volume: 9
+//
+Type: A
+Author(s): Rance, B; Gibrat, JF; Froidevaux, C
+Title: An Adaptive Combination of Matchers: Application to the Mapping of Biological Ontologies for Genome Annotation
+Journal: DATA INTEGRATION IN THE LIFE SCIENCES, PROCEEDINGS
+Year: 2009
+Volume: 5647
+//
+Type: A
+Author(s): Valentini, G
+Title: True Path Rule Hierarchical Ensembles
+Journal: MULTIPLE CLASSIFIER SYSTEMS, PROCEEDINGS
+Year: 2009
+Volume: 5519
+//
+Type: A
+Author(s): Re, M; Valentini, G
+Title: Ensemble Based Data Fusion for Gene Function Prediction
+Journal: MULTIPLE CLASSIFIER SYSTEMS, PROCEEDINGS
+Year: 2009
+Volume: 5519
+//
+Type: A
+Author(s): Atluri, G; Gupta, R; Fang, G; Pandey, G; Steinbach, M; Kumar, V
+Title: Association Analysis Techniques for Bioinformatics Problems
+Journal: BIOINFORMATICS AND COMPUTATIONAL BIOLOGY, PROCEEDINGS
+Year: 2009
+Volume: 5462
+//
+Type: A
+Author(s): Csikasz-Nagy, A; Kapuy, O; Toth, A; Pal, C; Jensen, LJ; Uhlmann, F; Tyson, JJ; Novak, B
+Title: Cell cycle regulation by feed-forward loops coupling transcription and phosphorylation
+Journal: MOLECULAR SYSTEMS BIOLOGY
+Year: 2009
+Volume: 5
+//
+Type: A
+Author(s): Elstner, M; Andreoli, C; Klopstock, T; Meitinger, T; Prokisch, H
+Title: THE MITOCHONDRIAL PROTEOME DATABASE: MITOP2
+Journal: METHODS IN ENZYMOLOGY, VOL 457: MITOCHONDRIAL FUNCTION, PARTB MITOCHONDRIAL PROTEIN KINASES, PROTEIN PHOSPHATASES AND MITOCHONDRIAL DISEASES
+Year: 2009
+Volume: 457
+//
+Type: A
+Author(s): Pihur, V; Brock, GN; Datta, S
+Title: Cluster Validation for Microarray Data: An Appraisal
+Journal: ADVANCES IN MULTIVARIATE STATISTICAL METHODS
+Year: 2009
+Volume: 4
+//
+Type: B
+Author(s): Walter, MC; Rattei, T; Arnold, R; Guldener, U; Munsterkotter, M; Nenova, K; Kastenmuller, G; Tischler, P; Wolling, A; Volz, A; Pongratz, N; Jost, R; Mewes, HW; Frishman, D
+Title: PEDANT covers all complete RefSeq genomes
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2009
+Volume: 37
+//
+Type: A
+Author(s): Zhang, SH; Liu, HW; Ning, XM; Zhang, XS
+Title: A hybrid graph-theoretic method for mining overlapping functional modules in large sparse protein interaction networks
+Journal: INTERNATIONAL JOURNAL OF DATA MINING AND BIOINFORMATICS
+Year: 2009
+Volume: 3
+//
+Type: A
+Author(s): Re, M; Valentini, G
+Title: Prediction of Gene Function Using Ensembles of SVMs and Heterogeneous Data Sources
+Journal: APPLICATIONS OF SUPERVISED AND UNSUPERVISED ENSEMBLE METHODS
+Year: 2009
+Volume: 245
+//
+Type: A
+Author(s): Barbour, MM; Hanson, DT
+Title: Stable carbon isotopes reveal dynamics of respiratory metabolism
+Journal: NEW PHYTOLOGIST
+Year: 2009
+Volume: 181
+//
+Type: A
+Author(s): Nara, K
+Title: Spores of ectomycorrhizal fungi: ecological strategies for germination and dormancy
+Journal: NEW PHYTOLOGIST
+Year: 2009
+Volume: 181
+//
+Type: A
+Author(s): Recorbet, G; Rogniaux, H; Gianinazzi-Pearson, V; DumasGaudot, E
+Title: Fungal proteins in the extra-radical phase of arbuscular mycorrhiza: a shotgun proteomic picture
+Journal: NEW PHYTOLOGIST
+Year: 2009
+Volume: 181
+//
+Type: A
+Author(s): Al-Akwaa, FM; Kadah, YM
+Title: An Automatic Gene Ontology Software Tool for Bicluster and Cluster Comparisons
+Journal: CIBCB: 2009 IEEE SYMPOSIUM ON COMPUTATIONAL INTELLIGENCE IN BIOINFORMATICS AND COMPUTATIONAL BIOLOGY
+Year: 2009
+Volume: 
+//
+Type: A
+Author(s): Sun, PG; Gao, L
+Title: Fast algorithms for detecting overlapping functional modules in protein-protein interaction networks
+Journal: CIBCB: 2009 IEEE SYMPOSIUM ON COMPUTATIONAL INTELLIGENCE IN BIOINFORMATICS AND COMPUTATIONAL BIOLOGY
+Year: 2009
+Volume: 
+//
+Type: A
+Author(s): Al-Akwaa, FM; Ali, MH; Kadah, YM
+Title: BicAT_Plus: An Automatic Comparative Tool For Bi/Clustering of Gene Expression Data Obtained Using Microarrays
+Journal: NRSC: 2009 NATIONAL RADIO SCIENCE CONFERENCE: NRSC 2009, VOLS 1 AND 2
+Year: 2009
+Volume: 
+//
+Type: A
+Author(s): Ni, QS; Wang, ZZ; Han, QJ; Li, GG; Wang, XM; Wang, GY
+Title: Using logistic regression method to predict protein function from protein-protein interaction data
+Journal: 2009 3RD INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICAL ENGINEERING, VOLS 1-11
+Year: 2009
+Volume: 
+//
+Type: A
+Author(s): Sun, PG; Gao, L
+Title: Algorithms based on Density and Shared Neighbors for Functional Modules Identification in PPI Networks
+Journal: 2009 9TH IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOENGINEERING
+Year: 2009
+Volume: 
+//
+Type: A
+Author(s): Wang, YQ; Ai, BL; He, XJ; Tan, XF; Shen, JK; Xing, WY
+Title: EST-based Analysis of Gene Expression of Flavonoid Biosynthesis in Ginkgo Mature Leaves
+Journal: PROCEEDINGS OF 2009 INTERNATIONAL CONFERENCE OF NATURAL PRODUCT AND TRADITIONAL MEDICINE, VOLS 1 AND 2
+Year: 2009
+Volume: 
+//
+Type: A
+Author(s): Liu, Q; Chen, YPP; Li, JY
+Title: High Functional Coherence in k-Partite Protein Cliques of Protein Interaction Networks
+Journal: 2009 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICINE
+Year: 2009
+Volume: 
+//
+Type: A
+Author(s): Pandey, G; Atluri, G; Fang, G; Gupta, R; Steinbach, M; Kumar, V
+Title: ASSOCIATION ANALYSIS TECHNIQUES FOR ANALYZING COMPLEX BIOLOGICAL DATA SETS
+Journal: 2009 IEEE INTERNATIONAL WORKSHOP ON GENOMIC SIGNAL PROCESSING AND STATISTICS (GENSIPS 2009)
+Year: 2009
+Volume: 
+//
+Type: A
+Author(s): Falara, V; Fotopoulos, V; Margaritis, T; Anastasaki, T; Pateraki, I; Bosabalidis, AM; Kafetzopoulos, D; Demetzos, C; Pichersky, E; Kanellis, AK
+Title: Transcriptome analysis approaches for the isolation of trichome-specific genes from the medicinal plant Cistus creticus subsp creticus
+Journal: PLANT MOLECULAR BIOLOGY
+Year: 2008
+Volume: 68
+//
+Type: B
+Author(s): Antonov, AV; Mewes, HW
+Title: Complex phylogenetic profiling reveals fundamental genotype-phenotype associations
+Journal: COMPUTATIONAL BIOLOGY AND CHEMISTRY
+Year: 2008
+Volume: 32
+//
+Type: A
+Author(s): Nevarez, L; Vasseur, V; Le Drean, G; Tanguy, A; Guisle-Marsollier, I; Houlgatte, R; Barbier, G
+Title: Isolation and analysis of differentially expressed genes in Penicillium glabrum subjected to thermal stress
+Journal: MICROBIOLOGY-SGM
+Year: 2008
+Volume: 154
+//
+Type: A
+Author(s): Loizeau, K; De Brouwer, V; Gambonnet, B; Yu, A; Renou, JP; Van Der Straeten, D; Lambert, WE; Rebeille, F; Ravanel, S
+Title: A Genome-Wide and Metabolic Analysis Determined the Adaptive Response of Arabidopsis Cells to Folate Depletion Induced by Methotrexate
+Journal: PLANT PHYSIOLOGY
+Year: 2008
+Volume: 148
+//
+Type: A
+Author(s): Lysoe, E; Bone, KR; Klemsdal, SS
+Title: Identification of up-regulated genes during zearalenone biosynthesis in Fusarium
+Journal: EUROPEAN JOURNAL OF PLANT PATHOLOGY
+Year: 2008
+Volume: 122
+//
+Type: B
+Author(s): Elstner, M; Andreoli, C; Ahting, U; Tetko, I; Klopstock, T; Meitinger, T; Prokisch, H
+Title: MitoP2: An Integrative Tool for the Analysis of the Mitochondrial Proteome
+Journal: MOLECULAR BIOTECHNOLOGY
+Year: 2008
+Volume: 40
+//
+Type: A
+Author(s): Kuzniar, A; van Ham, RCHJ; Pongor, S; Leunissen, JAM
+Title: The quest for orthologs: finding the corresponding gene across genomes
+Journal: TRENDS IN GENETICS
+Year: 2008
+Volume: 24
+//
+Type: A
+Author(s): Wang, Y; Zhang, WZ; Song, LF; Zou, JJ; Su, Z; Wu, WH
+Title: Transcriptome Analyses Show Changes in Gene Expression to Accompany Pollen Germination and Tube Growth in Arabidopsis
+Journal: PLANT PHYSIOLOGY
+Year: 2008
+Volume: 148
+//
+Type: A
+Author(s): Chagoyen, M; Carazo, JM; Pascual-Montano, A
+Title: Assessment of protein set coherence using functional annotations
+Journal: BMC BIOINFORMATICS
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Schonig, B; Brown, DW; Oeser, B; Tudzynski, B
+Title: Cross-Species Hybridization with Fusarium verticillioides Microarrays Reveals New Insights into Fusarium fujikuroi Nitrogen Regulation and the Role of AreA and NMR
+Journal: EUKARYOTIC CELL
+Year: 2008
+Volume: 7
+//
+Type: A
+Author(s): Zhao, XM; Chen, LN; Aihara, K
+Title: Protein function prediction with high-throughput data
+Journal: AMINO ACIDS
+Year: 2008
+Volume: 35
+//
+Type: A
+Author(s): Liu, ZP; Wu, LY; Wang, Y; Zhang, XS; Chen, LN
+Title: Bridging protein local structures and protein functions
+Journal: AMINO ACIDS
+Year: 2008
+Volume: 35
+//
+Type: B
+Author(s): Surmeli, D; Ratmann, O; Mewes, HW; Tetko, IV
+Title: FunCat functional inference with belief propagation and feature integration
+Journal: COMPUTATIONAL BIOLOGY AND CHEMISTRY
+Year: 2008
+Volume: 32
+//
+Type: B
+Author(s): van den Berg, MA; Albang, R; Albermann, K; Badger, JH; Daran, JM; Driessen, AJM; Garcia-Estrada, C; Fedorova, ND; Harris, DM; Heijne, WHM; Joardar, V; Kiel, JAKW; Kovalchuk, A; Martin, JF; Nierman, WC; Nijland, JG; Pronk, JT; Roubos, JA; van der Klei, IJ; van Peij, NNME; Veenhuis, M; von Dohren, H; Wagner, C; Wortman, J; Bovenberg, RAL
+Title: Genome sequencing and analysis of the filamentous fungus Penicillium chrysogenum
+Journal: NATURE BIOTECHNOLOGY
+Year: 2008
+Volume: 26
+//
+Type: A
+Author(s): Choudhury, A; Lahiri, A
+Title: Arabidopsis thaliana regulatory element analyzer
+Journal: BIOINFORMATICS
+Year: 2008
+Volume: 24
+//
+Type: A
+Author(s): Li, M; Chen, JE; Wang, JX; Hu, B; Chen, G
+Title: Modifying the DPClus algorithm for identifying protein complexes based on new topological structures
+Journal: BMC BIOINFORMATICS
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Cho, YR; Shi, L; Ramanathan, M; Zhang, AD
+Title: A probabilistic framework to predict protein function from interaction data integrated with semantic knowledge
+Journal: BMC BIOINFORMATICS
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Lawrence, SD; Novak, NG; Ju, CJT; Cooke, JEK
+Title: Examining the molecular interaction between potato (Solanum tuberosum) and Colorado potato beetle Leptinotarsa decemlineata
+Journal: BOTANY-BOTANIQUE
+Year: 2008
+Volume: 86
+//
+Type: A
+Author(s): Kasuga, T; Glass, NL
+Title: Dissecting colony development of Neurospora crassa using mRNA profiling and comparative genomics approaches
+Journal: EUKARYOTIC CELL
+Year: 2008
+Volume: 7
+//
+Type: A
+Author(s): Zarnack, K; Eichhorn, H; Kahmann, R; Feldbrugge, M
+Title: Pheromone-regulated target genes respond differentially to MAPK phosphorylation of transcription factor Prf1
+Journal: MOLECULAR MICROBIOLOGY
+Year: 2008
+Volume: 69
+//
+Type: B
+Author(s): Waegele, B; Schmidt, T; Mewes, HW; Ruepp, A
+Title: OREST: the online resource for EST analysis
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2008
+Volume: 36
+//
+Type: A
+Author(s): Rincones, J; Scarpari, LM; Carazzolle, MF; Mondego, JMC; Formighieri, EF; Barau, JG; Costa, GGL; Carraro, DM; Brentani, HP; Vilas-Boas, LA; de Oliveira, BV; Sabha, M; Dias, R; Cascardo, JM; Azevedo, RA; Meinhardt, LW; Pereira, GAG
+Title: Differential gene expression between the biotrophic-like and saprotrophic mycelia of the witches' broom pathogen Moniliophthora perniciosa
+Journal: MOLECULAR PLANT-MICROBE INTERACTIONS
+Year: 2008
+Volume: 21
+//
+Type: A
+Author(s): Nurniwalis, AW; Suhaimi, N; Akmar, ASN; Aminah, S; Arif, MAM
+Title: GENE DISCOVERY VIA EXPRESSED SEQUENCE TAGS FROM THE OIL PALM (Elaeis guineensis Jacq.) MESOCARP
+Journal: JOURNAL OF OIL PALM RESEARCH
+Year: 2008
+Volume: 
+//
+Type: A
+Author(s): Radfar, A; Diez, A; Bautista, JM
+Title: Chloroquine mediates specific proteome oxidative damage across the erythrocytic cycle of resistant Plasmodium falciparum
+Journal: FREE RADICAL BIOLOGY AND MEDICINE
+Year: 2008
+Volume: 44
+//
+Type: A
+Author(s): Andrade, HM; Murta, SMF; Chapeaurouge, A; Perales, J; Nirde, P; Romanha, AJ
+Title: Proteomic analysis of Trypanosoma cruzi resistance to benznidazole
+Journal: JOURNAL OF PROTEOME RESEARCH
+Year: 2008
+Volume: 7
+//
+Type: A
+Author(s): Vaupotic, T; Veranic, P; Jenoe, P; Plemenitas, A
+Title: Mitochondrial mediation of environmental osmolytes discrimination during osmoadaptation in the extremely halotolerant black yeast Hortaea werneckii
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2008
+Volume: 45
+//
+Type: A
+Author(s): Carletti, P; Masi, A; Spolaore, B; De Laureto, PP; De Zorzi, M; Turetta, L; Ferretti, M; Nardi, S
+Title: Protein expression changes in maize roots in response to humic substances
+Journal: JOURNAL OF CHEMICAL ECOLOGY
+Year: 2008
+Volume: 34
+//
+Type: A
+Author(s): Yuan, XL; van der Kaaij, RM; van den Hondel, CAMJJ; Punt, PJ; van der Maarel, MJEC; Dijkhuizen, L; Ram, AFJ
+Title: Aspergillus niger genome-wide analysis reveals a large number of novel alpha-glucan acting enzymes with unexpected expression profiles
+Journal: MOLECULAR GENETICS AND GENOMICS
+Year: 2008
+Volume: 279
+//
+Type: A
+Author(s): Marshall, SDG; Gatehouse, LN; Becher, SA; Christeller, JT; Gatehouse, HS; Hurst, MRH; Boucias, DG; Jackson, TA
+Title: Serine proteases identified from a Costelytra zealandica (White) (Coleoptera : Scarabaeidae) midgut EST library and their expression through insect development
+Journal: INSECT MOLECULAR BIOLOGY
+Year: 2008
+Volume: 17
+//
+Type: A
+Author(s): Cushman, JC; Tillett, RL; Wood, JA; Branco, JM; Schlauch, KA
+Title: Large-scale mRNA expression profiling in the common ice plant, Mesembryanthemum crystallinum, performing C(3) photosynthesis and Crassulacean acid metabolism (CAM)
+Journal: JOURNAL OF EXPERIMENTAL BOTANY
+Year: 2008
+Volume: 59
+//
+Type: A
+Author(s): Carapito, R; Hatsch, D; Vorwerk, S; Petkovski, E; Jeltsch, JM; Phalip, V
+Title: Gene expression in Fusarium graminearum grown on plant cell wall
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2008
+Volume: 45
+//
+Type: A
+Author(s): Ehlting, J; Sauveplane, V; Olry, A; Ginglinger, JF; Provart, NJ; Werck-Reichhart, D
+Title: An extensive (co-)expression analysis tool for the cytochrome P450 superfamily in Arabidopsis thaliana
+Journal: BMC PLANT BIOLOGY
+Year: 2008
+Volume: 8
+//
+Type: A
+Author(s): Endo, A; Nakamura, T; Ando, A; Tokuyasu, K; Shima, J
+Title: Genome-wide screening of the genes required for tolerance to vanillin, which is a potential inhibitor of bioethanol fermentation, in Saccharomyces cerevisiae
+Journal: BIOTECHNOLOGY FOR BIOFUELS
+Year: 2008
+Volume: 1
+//
+Type: A
+Author(s): Sarac, OS; Gursoy-Yuzugullu, O; Cetin-Atalay, R; Atalay, V
+Title: Subsequence-based feature map for protein function classification
+Journal: COMPUTATIONAL BIOLOGY AND CHEMISTRY
+Year: 2008
+Volume: 32
+//
+Type: A
+Author(s): Shariff, EM; Ti, LLE; Alias, H; Choo, CS; Singh, R
+Title: Identification of genes expressed in the embryoid tissue of oil palm (Elaeis guineensis Jacq.) tissue culture via expressed sequence tag analysis
+Journal: JOURNAL OF OIL PALM RESEARCH
+Year: 2008
+Volume: 
+//
+Type: A
+Author(s): Aguilar, D; Oliva, B
+Title: Topological comparison of methods for predicting transcriptional cooperativity in yeast
+Journal: BMC GENOMICS
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Frohler, S; Kramer, S
+Title: Inductive logic programming for gene regulation prediction
+Journal: MACHINE LEARNING
+Year: 2008
+Volume: 70
+//
+Type: A
+Author(s): Brock, G; Datta, S; Pihur, V; Datta, S
+Title: clValid: An R package for cluster validation
+Journal: JOURNAL OF STATISTICAL SOFTWARE
+Year: 2008
+Volume: 25
+//
+Type: B
+Author(s): Tetko, IV; Rodchenkov, IV; Walter, MC; Rattei, T; Mewes, HW
+Title: Beyond the best match: machine learning annotation of protein sequences by integration of different sources of information
+Journal: BIOINFORMATICS
+Year: 2008
+Volume: 24
+//
+Type: A
+Author(s): Valentini, G; Cesa-Bianchi, N
+Title: HCGene: a software tool to support the hierarchical classification of genes
+Journal: BIOINFORMATICS
+Year: 2008
+Volume: 24
+//
+Type: A
+Author(s): Ishihama, Y; Schmidt, T; Rappsilber, J; Mann, M; Hartl, FU; Kerner, MJ; Frishman, D
+Title: Protein abundance profiling of the Escherichia coli cytosol
+Journal: BMC GENOMICS
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Slattery, MG; Liko, D; Heideman, W
+Title: Protein kinase A, TOR, and glucose transport control the response to nutrient repletion in Saccharomyces cerevisiae
+Journal: EUKARYOTIC CELL
+Year: 2008
+Volume: 7
+//
+Type: A
+Author(s): Hallen, HE; Trail, F
+Title: The L-type calcium ion channel Cch1 affects ascospore discharge and mycelial growth in the filamentous fungus Gibberella zeae (anamorph Fusarium graminearum)
+Journal: EUKARYOTIC CELL
+Year: 2008
+Volume: 7
+//
+Type: A
+Author(s): Zhao, XM; Wang, Y; Chen, LN; Aihara, K
+Title: Gene function prediction using labeled and unlabeled data
+Journal: BMC BIOINFORMATICS
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Leontovich, AM; Tokmachev, KY; van Houwelingen, HC
+Title: The comparative analysis of statistics, based on the likelihood ratio criterion, in the automated annotation problem
+Journal: BMC BIOINFORMATICS
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Tian, WD; Zhang, LV; Tasan, M; Gibbons, FD; King, OD; Park, J; Wunderlich, Z; Cherry, JM; Roth, FP
+Title: Combining guilt-by-association and guilt-by-profiling to predict Saccharomyces cerevisiae gene function
+Journal: GENOME BIOLOGY
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Xia, D; Sanderson, SJ; Jones, AR; Prieto, JH; Yates, JR; Bromley, E; Tomley, FM; Lal, K; Sinden, RE; Brunk, BP; Roos, DS; Wastling, JM
+Title: The proteome of Toxoplasma gondii: integration with the genome provides novel insights into gene expression and annotation
+Journal: GENOME BIOLOGY
+Year: 2008
+Volume: 9
+//
+Type: A
+Author(s): Carter, P; Lee, D; Orengo, C
+Title: TARGET SELECTION IN STRUCTURAL GENOMICS PROJECTS TO INCREASE KNOWLEDGE OF PROTEIN STRUCTURE AND FUNCTION SPACE
+Journal: STRUCTURAL GENOMICS, PT A
+Year: 2008
+Volume: 75
+//
+Type: B
+Author(s): Grimm, M; Stephan, R; Iversen, C; Manzardo, GGG; Rattei, T; Riedel, K; Ruepp, A; Frishman, D; Lehner, A
+Title: Cellulose as an extracellular matrix component present in Enterobacter sakazakii biofilms
+Journal: JOURNAL OF FOOD PROTECTION
+Year: 2008
+Volume: 71
+//
+Type: A
+Author(s): Li, M; Wang, JX; Chen, J
+Title: A graph-theoretic method for mining overlapping functional modules in protein interaction networks
+Journal: BIOINFORMATICS RESEARCH AND APPLICATIONS
+Year: 2008
+Volume: 4983
+//
+Type: B
+Author(s): Feldbrugge, M; Zarnack, K; Vollmeister, E; Baumann, S; Koepke, J; Koenig, J; Munsterkotter, M; Mannhaupt, G
+Title: The posttranscriptional machinery of Ustilago maydis
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2008
+Volume: 45
+//
+Type: B
+Author(s): Mewes, HW; Dietmann, S; Frishman, D; Gregory, R; Mannhaupt, G; Mayer, KFX; Munsterkotter, M; Ruepp, A; Spannagl, M; Stuempflen, V; Rattei, T
+Title: MIPS: analysis and annotation of genome information in 2007
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2008
+Volume: 36
+//
+Type: A
+Author(s): Yeats, C; Lees, J; Reid, A; Kellam, P; Martin, N; Liu, X; Orengo, C
+Title: Gene3D: comprehensive structural and functional annotation of genomes
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2008
+Volume: 36
+//
+Type: B
+Author(s): Ruepp, A; Brauner, B; Dunger-Kaltenbach, I; Frishman, G; Montrone, C; Stransky, M; Waegele, B; Schmidt, T; Doudieu, ON; Mpflen, VS; Mewes, HW
+Title: CORUM: the comprehensive resource of mammalian protein complexes
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2008
+Volume: 36
+//
+Type: A
+Author(s): Yuan, XL; Roubos, JA; van den Hondel, CAMJJ; Ram, AFJ
+Title: Identification of InuR, a new Zn(II)2Cys6 transcriptional activator involved in the regulation of inulinolytic genes in Aspergillus niger
+Journal: MOLECULAR GENETICS AND GENOMICS
+Year: 2008
+Volume: 279
+//
+Type: A
+Author(s): Li, M; Wang, JX; Chen, J
+Title: A fast agglomerate algorithm for mining functional modules in protein interaction networks
+Journal: BMEI 2008: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON BIOMEDICAL ENGINEERING AND INFORMATICS, VOL 1
+Year: 2008
+Volume: 
+//
+Type: A
+Author(s): Cui, GY; Chen, Y; Huang, DS; Han, K
+Title: An algorithm for finding functional modules and protein complexes in protein-protein interaction networks
+Journal: JOURNAL OF BIOMEDICINE AND BIOTECHNOLOGY
+Year: 2008
+Volume: 
+//
+Type: A
+Author(s): Pandey, G; Ramakrishnan, LN; Steinbach, M; Kumar, V
+Title: Systematic Evaluation of Scaling Methods for Gene Expression Data
+Journal: 2008 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICINE, PROCEEDINGS
+Year: 2008
+Volume: 
+//
+Type: B
+Author(s): Munsterkotter, M; Steinberg, G
+Title: The fungus Ustilago maydis and humans share disease-related proteins that are not found in Saccharomyces cerevisiae
+Journal: BMC GENOMICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Ramel, F; Sulmon, C; Cabello-Hurtado, F; Taconnat, L; Martin-Magniette, ML; Renou, JP; El Amrani, A; Couee, I; Gouesbet, G
+Title: Genome-wide interacting effects of sucrose and herbicide-mediated stress in Arabidopsis thaliana: novel insights into atrazine toxicity and sucrose-induced tolerance
+Journal: BMC GENOMICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Bellazzi, R; Zupan, B
+Title: Towards knowledge-based gene expression data mining
+Journal: JOURNAL OF BIOMEDICAL INFORMATICS
+Year: 2007
+Volume: 40
+//
+Type: A
+Author(s): Meyer, V; Damveld, RA; Arentshorst, M; Stahl, U; van den Hondel, CAMJJ; Ram, AFJ
+Title: Survival in the presence of antifungals - Genome-wide expression profiling of aspergillus niger in response to sublethal concentrations of caspofungin and fenpropimorph
+Journal: JOURNAL OF BIOLOGICAL CHEMISTRY
+Year: 2007
+Volume: 282
+//
+Type: A
+Author(s): Narsai, R; Howell, KA; Millar, AH; O'Toole, N; Small, I; Whelan, J
+Title: Genome-wide analysis of mRNA decay rates and their determinants in Arabidopsis thaliana
+Journal: PLANT CELL
+Year: 2007
+Volume: 19
+//
+Type: A
+Author(s): Micheletto, S; Rodriguez-Uribe, L; Hernandez, R; Richins, RD; Curry, J; O'Connell, MA
+Title: Comparative transcript profiling in roots of Phaseolus acutifolius and P-vulgaris under water deficit stress
+Journal: PLANT SCIENCE
+Year: 2007
+Volume: 173
+//
+Type: A
+Author(s): Maraziotis, IA; Dimitrakopoulou, K; Bezerianos, A
+Title: Growing functional modules from a seed protein via integration of protein interaction and gene expression data
+Journal: BMC BIOINFORMATICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Ho, EC; Cahill, MJ; Saville, BJ
+Title: Gene discovery and transcript analyses in the corn smut pathogen Ustilago maydis: expressed sequence tag and genome sequence comparison
+Journal: BMC GENOMICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Arvas, M; Kivioja, T; Mitchell, A; Saloheimo, M; Ussery, D; Penttila, M; Oliver, S
+Title: Comparison of protein coding gene contents of the fungal phyla Pezizomycotina and Saccharomycotina
+Journal: BMC GENOMICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Bebek, G; Yang, J
+Title: PathFinder: mining signal transduction pathway segments from protein-protein interaction networks
+Journal: BMC BIOINFORMATICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Breakspear, A; Momany, M
+Title: Aspergillus nidulans conidiation genes dewA, fluG, and stuA are differentially regulated in early vegetative growth
+Journal: EUKARYOTIC CELL
+Year: 2007
+Volume: 6
+//
+Type: A
+Author(s): van de Vondervoort, PJI; Langeveld, SMJ; Visser, J; van Peij, NNME; Pel, HJ; van den Hondel, CAMJJ; Ram, AFJ
+Title: Identification of a mitotic recombination hotspot on chromosome III of the asexual fungus Aspergillus niger and its possible correlation elevated basal transcription
+Journal: CURRENT GENETICS
+Year: 2007
+Volume: 52
+//
+Type: A
+Author(s): Vaupotic, T; Plemenitas, A
+Title: Differential gene expression and HogI interaction with osmoresponsive genes in the extremely halotolerant black yeast Hortaea werneckii
+Journal: BMC GENOMICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Yu, HY; Jansen, R; Stolovitzky, G; Gerstein, M
+Title: Total ancestry measure: quantifying the similarity in tree-like classification, with genomic applications
+Journal: BIOINFORMATICS
+Year: 2007
+Volume: 23
+//
+Type: A
+Author(s): Rotter, D; Bharti, AK; Li, HJM; Luo, CY; Bonos, SA; Bughrara, S; Jung, GW; Messing, J; Meyer, WA; Rudd, S; Warnke, SE; Belanger, FC
+Title: Analysis of EST sequences suggests recent origin of allotetraploid colonial and creeping bentgrasses
+Journal: MOLECULAR GENETICS AND GENOMICS
+Year: 2007
+Volume: 278
+//
+Type: A
+Author(s): Frishman, D
+Title: Protein annotation at genomic scale: The current status
+Journal: CHEMICAL REVIEWS
+Year: 2007
+Volume: 107
+//
+Type: A
+Author(s): Artamonova, II; Frishman, G; Frishman, D
+Title: Applying negative rule mining to improve genome annotation
+Journal: BMC BIOINFORMATICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Cordier, H; Mendes, F; Vasconcelos, I; Francois, JM
+Title: A metabolic and genomic study of engineered Saccharomyces cerevisiae strains for high glycerol production
+Journal: METABOLIC ENGINEERING
+Year: 2007
+Volume: 9
+//
+Type: A
+Author(s): Ohn, JH; Kim, J; Kim, JH
+Title: Genomic characterization of perturbation sensitivity
+Journal: BIOINFORMATICS
+Year: 2007
+Volume: 23
+//
+Type: A
+Author(s): Krinke, O; Ruelland, E; Valentova, O; Vergnolle, C; Renou, JP; Taconnat, L; Flemr, M; Burketova, L; Zachowski, A
+Title: Phosphatidylinositol 4-kinase activation is an early response to salicylic acid in arabidopsis suspension cells
+Journal: PLANT PHYSIOLOGY
+Year: 2007
+Volume: 144
+//
+Type: A
+Author(s): Grimplet, J; Deluc, LG; Tillett, RL; Wheatley, MD; Schlauch, KA; Cramer, GR; Cushman, JC
+Title: Tissue-specific mRNA expression profiling in grape berry tissues
+Journal: BMC GENOMICS
+Year: 2007
+Volume: 8
+//
+Type: A
+Author(s): Tian, CG; Kasuga, T; Sachs, MS; Glass, NL
+Title: Transcriptional profiling of cross pathway control in Neurospora crassa and comparative analysis of the Gcn4 and CPC1 regulons
+Journal: EUKARYOTIC CELL
+Year: 2007
+Volume: 6
+//
+Type: A
+Author(s): Joosen, R; Cordewener, J; Supena, EDJ; Vorst, O; Lammers, M; Maliepaard, C; Zeilmaker, T; Miki, B; America, T; Custers, J; Boutilier, K
+Title: Combined transcriptome and proteome analysis identifies pathways and markers associated with the establishment of rapeseed microspore-derived embryo development
+Journal: PLANT PHYSIOLOGY
+Year: 2007
+Volume: 144
+//
+Type: A
+Author(s): Ferrari, S; Galletti, R; Denoux, C; De Lorenzo, G; Ausubel, FM; Dewdney, J
+Title: Resistance to Botrytis cinerea induced in Arabidopsis by elicitors is independent of salicylic acid, ethylene, or jasmonate signaling but requires PHYTOALEXIN DEFICIENT3
+Journal: PLANT PHYSIOLOGY
+Year: 2007
+Volume: 144
+//
+Type: A
+Author(s): Bragg, JG; Wagner, A
+Title: Protein carbon content evolves in response to carbon availability and may influence the fate of duplicated genes
+Journal: PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+Year: 2007
+Volume: 274
+//
+Type: A
+Author(s): Krumsiek, J; Arnold, R; Rattei, T
+Title: Gepard: a rapid and sensitive tool for creating dotplots on genome scale
+Journal: BIOINFORMATICS
+Year: 2007
+Volume: 23
+//
+Type: B
+Author(s): Emmersen, J; Rudd, S; Mewes, HW; Tetko, IV
+Title: Separation of sequences from host-pathogen interface using triplet nucleotide frequencies
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2007
+Volume: 44
+//
+Type: A
+Author(s): Godard, P; Urrestarazu, A; Vissers, S; Kontos, K; Bontempi, G; van Helden, J; Andre, B
+Title: Effect of 21 different nitrogen sources on global gene expression in the yeast Saccharomyces cerevisiae
+Journal: MOLECULAR AND CELLULAR BIOLOGY
+Year: 2007
+Volume: 27
+//
+Type: A
+Author(s): Fernandez-Arenas, E; Cabezon, V; Bermejo, C; Arroyo, J; Nombela, C; Diez-Orejas, R; Gil, C
+Title: Integrated proteomics and genomics strategies bring new insight into Candida albicans response upon macrophage interaction
+Journal: MOLECULAR & CELLULAR PROTEOMICS
+Year: 2007
+Volume: 6
+//
+Type: A
+Author(s): Lee, J; He, K; Stolc, V; Lee, H; Figueroa, P; Gao, Y; Tongprasit, W; Zhao, HY; Lee, I; Deng, X
+Title: Analysis of transcription factor HY5 genomic binding sites revealed its hierarchical role in light regulation of development
+Journal: PLANT CELL
+Year: 2007
+Volume: 19
+//
+Type: B
+Author(s): Pel, HJ; de Winde, JH; Archer, DB; Dyer, PS; Hofmann, G; Schaap, PJ; Turner, G; de Vries, RP; Albang, R; Albermann, K; Andersen, MR; Bendtsen, JD; Benen, JAE; van den Berg, M; Breestraat, S; Caddick, MX; Contreras, R; Cornell, M; Coutinho, PM; Danchin, EGJ; Debets, AJM; Dekker, P; van Dijck, PWM; van Dijk, A; Dijkhuizen, L; Driessen, AJM; d'Enfert, C; Geysens, S; Goosen, C; Groot, GSP; de Groot, PWJ; Guillemette, T; Henrissat, B; Herweijer, M; van den Hombergh, JPTW; van den Hondel, CAMJJ; van der Heijden, RTJM; van der Kaaij, RM; Klis, FM; Kools, HJ; Kubicek, CP; van Kuyk, PA; Lauber, J; Lu, X; van der Maarel, MJEC; Meulenberg, R; Menke, H; Mortimer, MA; Nielsen, J; Oliver, SG; Olsthoorn, M; Pal, K; van Peij, NNME; Ram, AFJ; Rinas, U; Roubos, JA; Sagt, CMJ; Schmoll, M; Sun, JB; Ussery, D; Varga, J; Vervecken, W; de Vondervoort, PJJV; Wedler, H; Wosten, HAB; Zeng, AP; van Ooyen, AJJ; Visser, J; Stam, H
+Title: Genome sequencing and analysis of the versatile cell factory Aspergillus niger CBS 513.88
+Journal: NATURE BIOTECHNOLOGY
+Year: 2007
+Volume: 25
+//
+Type: A
+Author(s): Zhao, XM; Chen, L; Aihara, K
+Title: Gene function prediction with the shortest path in functional linkage graph
+Journal: Optimization and Systems Biology
+Year: 2007
+Volume: 7
+//
+Type: A
+Author(s): Bishop, AL; Rab, FA; Sumner, ER; Avery, SV
+Title: Phenotypic heterogeneity can enhance rare-cell survival in 'stress-sensitive' yeast populations
+Journal: MOLECULAR MICROBIOLOGY
+Year: 2007
+Volume: 63
+//
+Type: A
+Author(s): Dunlap, JC; Borkovich, KA; Henn, MR; Turner, GE; Sachs, MS; Glass, NL; McCluskey, K; Plamann, M; Galagan, JE; Birren, BW; Weiss, RL; Townsend, JP; Loros, JJ; Nelson, MA; Lambreghts, R; Colot, HV; Park, G; Collopy, P; Ringelberg, C; Crew, C; Litvinkova, L; DeCaprio, D; Hood, HM; Curilla, S; Shi, M; Crawford, M; Koerhsen, M; Montgomery, P; Larson, L; Pearson, M; Kasuga, T; Tian, CG; Bastuerkmen, M; Altamirano, L; Xu, JH
+Title: Enabling a Community to Dissect an Organism: Overview of the Neurospora Functional Genomics Project
+Journal: FUNGAL GENOMICS
+Year: 2007
+Volume: 57
+//
+Type: A
+Author(s): Golkari, S; Gilbert, J; Prashar, S; Procunier, JD
+Title: Microarray analysis of Fusarium graminearum-induced wheat genes: identification of organ-specific and differentially expressed genes
+Journal: PLANT BIOTECHNOLOGY JOURNAL
+Year: 2007
+Volume: 5
+//
+Type: A
+Author(s): Ahn, JH; Kim, J; Yoo, SJ; Yoo, SY; Roh, H; Choi, JH; Choi, MS; Chung, KS; Han, EJ; Hong, SM; Jung, SH; Kang, HJ; Kim, BK; Kim, MD; Kim, YK; Kim, YH; Lee, H; Park, SH; Yang, JH; Yang, JW; Yoo, DH; Yoo, SK; Lee, JS
+Title: Isolation of 151 mutants that have developmental defects from T-DNA tagging
+Journal: PLANT AND CELL PHYSIOLOGY
+Year: 2007
+Volume: 48
+//
+Type: A
+Author(s): Frohler, S; Kramer, S
+Title: Inductive logic programming for gene regulation prediction
+Journal: Inductive Logic Programming
+Year: 2007
+Volume: 4455
+//
+Type: A
+Author(s): Boscariol-Camargo, RL; Berger, IJ; Souza, AA; do Amaral, AM; Carlos, EF; Freitas-Astua, J; Takita, MA; Targon, MLPN; Medina, CL; Reis, MS; Machado, MA
+Title: In silico analysis of ESTs from roots of Rangpur lime (Citrus limonia Osbeck) under water stress
+Journal: GENETICS AND MOLECULAR BIOLOGY
+Year: 2007
+Volume: 30
+//
+Type: A
+Author(s): Pandey, G; Steinbach, M; Gupta, R; Garg, T; Kumar, V
+Title: Association Analysis-based Transformations for Protein Interaction Networks: A Function Prediction Case Study
+Journal: KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING
+Year: 2007
+Volume: 
+//
+Type: A
+Author(s): Han, K; Cui, G; Chen, Y
+Title: Identifying functional groups by finding cliques and near-cliques in protein interaction networks
+Journal: PROCEEDINGS OF THE FRONTIERS IN THE CONVERGENCE OF BIOSCIENCE AND INFORMATION TECHNOLOGIES
+Year: 2007
+Volume: 
+//
+Type: A
+Author(s): Serrano, R; Martin, H; Casamayor, A; Arino, J
+Title: Signaling alkaline pH stress in the yeast Saccharomyces cerevisiae through the Wsc1 cell surface sensor and the Slt2 MAPK pathway
+Journal: JOURNAL OF BIOLOGICAL CHEMISTRY
+Year: 2006
+Volume: 281
+//
+Type: A
+Author(s): Ehlting, J; Provart, NJ; Werck-Reichhart, D
+Title: Functional annotation of the Arabidopsis P450 superfamily based on large-scale co-expression analysis
+Journal: BIOCHEMICAL SOCIETY TRANSACTIONS
+Year: 2006
+Volume: 34
+//
+Type: A
+Author(s): Zhang, SH; Ning, XM; Zhang, XS
+Title: Identification of functional modules in a PPI network by clique percolation clustering
+Journal: COMPUTATIONAL BIOLOGY AND CHEMISTRY
+Year: 2006
+Volume: 30
+//
+Type: B
+Author(s): Lehner, A; Riedel, K; Rattei, T; Ruepp, A; Frishman, D; Breeuwer, P; Diep, B; Eberl, L; Stephan, R
+Title: Molecular characterization of the alpha-glucosidase activity in Enterobacter sakazakii reveals the presence of a putative gene cluster for palatinose metabolism
+Journal: SYSTEMATIC AND APPLIED MICROBIOLOGY
+Year: 2006
+Volume: 29
+//
+Type: B
+Author(s): Lehner, A; Grimm, M; Rattei, T; Ruepp, A; Frishman, D; Manzardo, GGG; Stephan, R
+Title: Cloning and characterization of Enterobacter sakazakii pigment genes and in situ spectroscopic analysis of the pigment
+Journal: FEMS MICROBIOLOGY LETTERS
+Year: 2006
+Volume: 265
+//
+Type: A
+Author(s): Li, L; Huang, YW; Xia, XF; Sun, ZR
+Title: Preferential duplication in the sparse part of yeast protein interaction network
+Journal: MOLECULAR BIOLOGY AND EVOLUTION
+Year: 2006
+Volume: 23
+//
+Type: A
+Author(s): Huttenhower, C; Hibbs, M; Myers, C; Troyanskaya, OG
+Title: A scalable method for integration and functional analysis of multiple microarray datasets
+Journal: BIOINFORMATICS
+Year: 2006
+Volume: 22
+//
+Type: A
+Author(s): Baldwin, TK; Winnenburg, R; Urban, M; Rawlings, C; Koehler, J; Hammond-Kosack, KE
+Title: The pathogen-host interactions database (PHI-base) provides insights into generic and novel themes of pathogenicity
+Journal: MOLECULAR PLANT-MICROBE INTERACTIONS
+Year: 2006
+Volume: 19
+//
+Type: A
+Author(s): Gonzalez, A; Ruiz, A; Serrano, R; Arino, J; Casamayor, A
+Title: Transcriptional profiling of the protein phosphatase 2C family in yeast provides insights into the unique functional roles of ptc1
+Journal: JOURNAL OF BIOLOGICAL CHEMISTRY
+Year: 2006
+Volume: 281
+//
+Type: A
+Author(s): Journot-Catalino, N; Somssich, IE; Roby, D; Kroj, T
+Title: The transcription factors WRKY11 and WRKY17 act as negative regulators of basal resistance in Arabidopsis thaliana
+Journal: PLANT CELL
+Year: 2006
+Volume: 18
+//
+Type: B
+Author(s): Antonov, AV; Mewes, HW
+Title: Complex functionality of gene groups identified from high-throughput data
+Journal: JOURNAL OF MOLECULAR BIOLOGY
+Year: 2006
+Volume: 363
+//
+Type: A
+Author(s): Gerke, JP; Chen, CTL; Cohen, BA
+Title: Natural isolates of Saccharomyces cerevisiae display complex genetic variation in sporulation efficiency
+Journal: GENETICS
+Year: 2006
+Volume: 174
+//
+Type: A
+Author(s): Itzkovitz, S; Tlusty, T; Alon, U
+Title: Coding limits on the number of transcription factors
+Journal: BMC GENOMICS
+Year: 2006
+Volume: 7
+//
+Type: A
+Author(s): Mracek, J; Greiner, S; Cho, WK; Rauwolf, U; Braun, M; Umate, P; Altstatter, J; Stoppel, R; Mlcochova, L; Silber, MV; Volz, SM; White, S; Selmeier, R; Rudd, S; Herrmann, RG; Meurer, J
+Title: Construction, database integration, and application of an Oenothera EST library
+Journal: GENOMICS
+Year: 2006
+Volume: 88
+//
+Type: A
+Author(s): Datta, S; Datta, S
+Title: Methods for evaluating clustering algorithms for gene expression data using a reference set of functional classes
+Journal: BMC BIOINFORMATICS
+Year: 2006
+Volume: 7
+//
+Type: A
+Author(s): Tu, K; Yu, H; Li, YX
+Title: Combining gene expression profiles and protein-protein interaction data to infer gene functions
+Journal: JOURNAL OF BIOTECHNOLOGY
+Year: 2006
+Volume: 124
+//
+Type: A
+Author(s): Kimura, Y; Yokoyama, R; Ishizu, Y; Nishigaki, T; Murahashi, Y; Hijikata, A; Kitamura, H; Ohara, O
+Title: Construction of quantitative proteome reference maps of mouse spleen and lymph node based on two-dimensional gel electrophoresis
+Journal: PROTEOMICS
+Year: 2006
+Volume: 6
+//
+Type: A
+Author(s): Tiwari, S; Spielman, M; Day, RC; Scott, RJ
+Title: Proliferative phase endosperm promoters from Arabidopsis thaliana
+Journal: PLANT BIOTECHNOLOGY JOURNAL
+Year: 2006
+Volume: 4
+//
+Type: A
+Author(s): Qi, WH; Chil, K; Trail, F
+Title: Microarray analysis of transcript accumulation during perithecium development in the filamentous fungus Gibberella zeae (anamorph Fusarium graminearum)
+Journal: MOLECULAR GENETICS AND GENOMICS
+Year: 2006
+Volume: 276
+//
+Type: A
+Author(s): Chua, HN; Sung, WK; Wong, L
+Title: Exploiting indirect neighbours and topological weight to predict protein function from protein-protein interactions
+Journal: BIOINFORMATICS
+Year: 2006
+Volume: 22
+//
+Type: A
+Author(s): Tewfik, AH; Tchagang, AB; Vertatschitsch, L
+Title: Parallel identification of gene biclusters with coherent evolutions
+Journal: IEEE TRANSACTIONS ON SIGNAL PROCESSING
+Year: 2006
+Volume: 54
+//
+Type: A
+Author(s): Van der Graaff, E; Schwacke, R; Schneider, A; Desimone, M; Flugge, UI; Kunze, R
+Title: Transcription analysis of arabidopsis membrane transporters and hormone pathways during developmental and induced leaf senescence
+Journal: PLANT PHYSIOLOGY
+Year: 2006
+Volume: 141
+//
+Type: A
+Author(s): Newcomb, RD; Crowhurst, RN; Gleave, AP; Rikkerink, EHA; Allan, AC; Beuning, LL; Bowen, JH; Gera, E; Jamieson, KR; Janssen, BJ; Laing, WA; McArtney, S; Nain, B; Ross, GS; Snowden, KC; Souleyre, EJF; Walton, EF; Yauk, YK
+Title: Analyses of expressed sequence tags from apple
+Journal: PLANT PHYSIOLOGY
+Year: 2006
+Volume: 141
+//
+Type: A
+Author(s): Piippo, M; Allahverdiyeva, Y; Paakkarinen, V; Suoranta, UM; Battchikova, N; Aro, EM
+Title: Chloroplast-mediated regulation of nuclear genes in Arabidopsis thaliana in the absence of light stress
+Journal: PHYSIOLOGICAL GENOMICS
+Year: 2006
+Volume: 25
+//
+Type: A
+Author(s): Datta, S; Datta, S
+Title: Evaluation of clustering algorithms for gene expression data
+Journal: BMC BIOINFORMATICS
+Year: 2006
+Volume: 7
+//
+Type: A
+Author(s): Jakupovic, M; Heintz, M; Reichmann, P; Mendgen, K; Hahn, M
+Title: Microarray analysis of expressed sequence tags from haustoria of the rust fungus Uromyces fabae
+Journal: FUNGAL GENETICS AND BIOLOGY
+Year: 2006
+Volume: 43
+//
+Type: A
+Author(s): Zhang, SH; Ning, XM; Liu, HW; Zhang, XS
+Title: Prediction of protein complexes based on protein interaction data and functional annotation data using kernel methods
+Journal: COMPUTATIONAL INTELLIGENCE AND BIOINFORMATICS, PT 3, PROCEEDINGS
+Year: 2006
+Volume: 4115
+//
+Type: A
+Author(s): Losko, S; Wenger, K; Kalus, W; Ramge, A; Wiehler, J; Heumann, K
+Title: Knowledge networks of biological and medical data: An exhaustive and flexible solution to model life science domains
+Journal: DATA INTEGRATION IN THE LIFE SCIENCES, PROCEEDINGS
+Year: 2006
+Volume: 4075
+//
+Type: B
+Author(s): Antonov, AV; Tetko, IV; Mewes, HW
+Title: A systematic approach to infer biological relevance and biases of gene network structures
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2006
+Volume: 34
+//
+Type: A
+Author(s): Bryson, K; Loux, V; Bossy, R; Nicolas, P; Chaillou, S; van de Guchte, M; Penaud, S; Maguin, E; Hoebeke, M; Bessieres, P; Gibrat, JF
+Title: AGMIAL: implementing an annotation strategy for prokaryote genomes as a distributed system
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2006
+Volume: 34
+//
+Type: A
+Author(s): Vallenet, D; Labarre, L; Rouy, Z; Barbe, V; Bocs, S; Cruveiller, S; Lajus, A; Pascal, G; Scarpelli, C; Medigue, C
+Title: MaGe: a microbial genome annotation system supported by synteny results
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2006
+Volume: 34
+//
+Type: B
+Author(s): Mewes, HW; Frishman, D; Mayer, KFX; Munsterkotter, M; Noubibou, O; Pagel, P; Rattei, T; Oesterheld, M; Ruepp, A; Stumpflen, V
+Title: MIPS: analysis and annotation of proteins from whole genomes in 2005
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2006
+Volume: 34
+//
+Type: B
+Author(s): Guldener, U; Munsterkotter, M; Oesterheld, M; Pagel, P; Ruepp, A; Mewes, HW; Stumpflen, V
+Title: MPact: the MIPS protein interaction resource on yeast
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2006
+Volume: 34
+//
+Type: B
+Author(s): Guldener, U; Mannhaupt, G; Munsterkotter, M; Haase, D; Oesterheld, M; Stumpflen, V; Mewes, HW; Adam, G
+Title: FGDB: a comprehensive fungal genome resource on the plant pathogen Fusarium graminearum
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2006
+Volume: 34
+//
+Type: B
+Author(s): Ruepp, A; Doudieu, ON; van den Oever, J; Brauner, B; Dunger-Kaltenbach, I; Fobo, G; Frishman, G; Montrone, C; Skornia, C; Wanka, S; Rattei, T; Pagel, P; Riley, L; Frishman, D; Surmeli, D; Tetko, IV; Oesterheld, M; Stumpflen, V; Mewes, HW
+Title: The Mouse Functional Genome Database (MfunGD): functional annotation of proteins in the light of their cellular context
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2006
+Volume: 34
+//
+Type: B
+Author(s): Prokisch, H; Andreoli, C; Ahting, U; Heiss, K; Ruepp, A; Scharfe, C; Meitinger, T
+Title: MitoP2: the mitochondrial proteome database - now including mouse data
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2006
+Volume: 34
+//
+Type: A
+Author(s): Kresnowati, MTAP; van Winden, WA; Almering, MJH; ten Pierick, A; Ras, C; Knijnenburg, TA; Daran-Lapujade, P; Pronk, JT; Heijnen, JJ; Daran, JM
+Title: When transcriptome meets metabolome: fast cellular responses of yeast to sudden relief of glucose limitation
+Journal: MOLECULAR SYSTEMS BIOLOGY
+Year: 2006
+Volume: 2
+//
+Type: B
+Author(s): Dietmann, S; Aguilar, D; Mader, M; Oesterheld, M; Ruepp, A; Stuempflen, V; Mewes, HW
+Title: Resources and tools for investigating biomolecular networks in mammals
+Journal: CURRENT PHARMACEUTICAL DESIGN
+Year: 2006
+Volume: 12
+//
+Type: A
+Author(s): Cho, YR; Hwang, W; Zhang, AD
+Title: Efficient modularization of weighted protein interaction networks using k-hop graph reduction
+Journal: BIBE 2006: SIXTH IEEE SYMPOSIUM ON BIOINFORMATICS AND BIOENGINEERING, PROCEEDINGS
+Year: 2006
+Volume: 
+//
+Type: A
+Author(s): Tchagang, AB; Tewfik, AH
+Title: DNA microarray data analysis: A novel biclustering algorithm approach
+Journal: EURASIP JOURNAL ON APPLIED SIGNAL PROCESSING
+Year: 2006
+Volume: 
+//
+Type: A
+Author(s): Cho, YR; Hwang, WC; Zhang, AD
+Title: Identification of overlapping functional modules in protein interaction networks: Information flow-based approach
+Journal: ICDM 2006: SIXTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, WORKSHOPS
+Year: 2006
+Volume: 
+//
+Type: A
+Author(s): Lee, MS; Park, SS
+Title: Comparative analysis of classification methods for protein interaction verification system
+Journal: ADVANCES IN INFORMATION SYSTEMS, PROCEEDINGS
+Year: 2006
+Volume: 4243
+//
+Type: A
+Author(s): Kohantorabi, F; Butler, G; Baker, CJO
+Title: A distributed agent system upon Semantic Web technologies to provide biological data
+Journal: Canadian Semantic Web
+Year: 2006
+Volume: 2
+//
+Type: A
+Author(s): Zhang, SH; Liu, HW; Ning, XM; Zhang, XS
+Title: A graph-theoretic method for mining functional modules in large sparse protein interaction networks
+Journal: ICDM 2006: Sixth IEEE International Conference on Data Mining, Workshops
+Year: 2006
+Volume: 
+//
+Type: A
+Author(s): Tewfik, A; Tchagang, A; Vertatschitsch, L
+Title: Parallel biclustering of genes with coherent evolutions: Algorithm and biological significance of the biclusters
+Journal: 2006 IEEE International Conference on Acoustics, Speech, and Signal Processing, Vol II, Proceedings: IMAGE AND MULTIDIMENSIONAL SIGNAL PROCESSING, SIGNAL PROCESSING EDUCATION, BIOIMAGING AND SIGNAL PROCESSING
+Year: 2006
+Volume: 
+//
+Type: A
+Author(s): Tewfik, AH; Tchagang, AB; Vertatschitsch, L
+Title: Parallel biclustering of genes with coherent evolutions: Algorithm and biological significance of the biclusters
+Journal: 2006 IEEE International Conference on Acoustics, Speech and Signal Processing, Vols 1-13
+Year: 2006
+Volume: 
+//
+Type: C
+Author(s): Dephoure, N; Howson, RW; Blethrow, JD; Shokat, KM; O'Shea, EK
+Title: Combining chemical genetics and proteomics to identify protein kinase substrates
+Journal: PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+Year: 2005
+Volume: 102
+//
+Type: C
+Author(s): Lee, H; Lee, JS; Noh, EW; Bae, EK; Choi, YI; Han, MS
+Title: Generation and analysis of expressed sequence tags from poplar (Populus alba x P-tremula var. glandulosa) suspension cells
+Journal: PLANT SCIENCE
+Year: 2005
+Volume: 169
+//
+Type: C
+Author(s): Jammes, F; Lecomte, P; Almeida-Engler, J; Bitton, F; Martin-Magniette, ML; Renou, JP; Abad, P; Favery, B
+Title: Genome-wide expression profiling of the host response to root-knot nematode infection in Arabidopsis
+Journal: PLANT JOURNAL
+Year: 2005
+Volume: 44
+//
+Type: C
+Author(s): Lee, BH; Henderson, DA; Zhu, JK
+Title: The Arabidopsis cold-responsive transcriptome and its regulation by ICE1
+Journal: PLANT CELL
+Year: 2005
+Volume: 17
+//
+Type: C
+Author(s): Conesa, C; Ruotolo, R; Soularue, P; Simms, TA; Donze, D; Sentenac, A; Dieci, G
+Title: Modulation of yeast genome expression in response to defective RNA polymerase III-dependent transcription
+Journal: MOLECULAR AND CELLULAR BIOLOGY
+Year: 2005
+Volume: 25
+//
+Type: C
+Author(s): Holme, P; Huss, M
+Title: Role-similarity based functional prediction in networked systems: application to the yeast proteome
+Journal: JOURNAL OF THE ROYAL SOCIETY INTERFACE
+Year: 2005
+Volume: 2
+//
+Type: C
+Author(s): Maere, S; Heymans, K; Kuiper, M
+Title: BiNGO: a Cytoscape plugin to assess overrepresentation of Gene Ontology categories in Biological Networks
+Journal: BIOINFORMATICS
+Year: 2005
+Volume: 21
+//
+Type: C
+Author(s): Wang, A; Chapman, P; Chen, L; Stobbs, LW; Brown, DCW; Brandle, JE
+Title: A comparative survey, by expressed sequence tag analysis, of genes expressed in peach leaves infected with Plum pox virus (PPV) and free from PPV
+Journal: CANADIAN JOURNAL OF PLANT PATHOLOGY-REVUE CANADIENNE DE PHYTOPATHOLOGIE
+Year: 2005
+Volume: 27
+//
+Type: C
+Author(s): Ehlting, J; Mattheus, N; Aeschliman, DS; Li, EY; Hamberger, B; Cullis, IF; Zhuang, J; Kaneda, M; Mansfield, SD; Samuels, L; Ritland, K; Ellis, BE; Bohlmann, J; Douglas, CJ
+Title: Global transcript profiling of primary stems from Arabidopsis thaliana identifies candidate genes for missing links in lignin biosynthesis and transcriptional regulators of fiber differentiation
+Journal: PLANT JOURNAL
+Year: 2005
+Volume: 42
+//
+Type: C
+Author(s): Bowen, S; Roberts, C; Wheals, AE
+Title: Patterns of polymorphism and divergence in stress-related yeast proteins
+Journal: YEAST
+Year: 2005
+Volume: 22
+//
+Type: C
+Author(s): Tetko, IV; Brauner, B; Dunger-Kaltenbach, I; Frishman, G; Montrone, C; Fobo, G; Ruepp, A; Antonov, AV; Surmeli, D; Mewes, HW
+Title: MIPS bacterial genomes functional annotation benchmark dataset
+Journal: BIOINFORMATICS
+Year: 2005
+Volume: 21
+//
+Type: C
+Author(s): Tetko, IV; Facius, A; Ruepp, A; Mewes, HW
+Title: Super paramagnetic clustering of protein sequences
+Journal: BMC BIOINFORMATICS
+Year: 2005
+Volume: 6
+//
+Type: C
+Author(s): de Lichtenberg, U; Jensen, LJ; Brunak, S; Bork, P
+Title: Dynamic complex formation during the yeast cell cycle
+Journal: SCIENCE
+Year: 2005
+Volume: 307
+//
+Type: C
+Author(s): Kasuga, T; Townsend, JP; Tian, CG; Gilbert, LB; Mannhaupt, G; Taylor, JW; Glass, NL
+Title: Long-oligomer microarray profiling in Neurospora crassa reveals the transcriptional program underlying biochemical and physiological events of conidial germination
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2005
+Volume: 33
+//
+Type: C
+Author(s): Riley, ML; Schmidt, T; Wagner, C; Mewes, HW; Frishman, D
+Title: The PEDANT genome database in 2005
+Journal: NUCLEIC ACIDS RESEARCH
+Year: 2005
+Volume: 33
+//
+Type: C
+Author(s): Artamonova, II; Frishman, G; Gelfand, MS; Frishman, D
+Title: Mining sequence annotation databanks for association patterns
+Journal: BIOINFORMATICS
+Year: 2005
+Volume: 21
+//
+Type: C
+Author(s): Vertatschitsch, L; Tewfik, AH; Tchagang, AB
+Title: Biological significance of a novel biclustering technique on genetic expression data
+Journal: 2005 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT), Vols 1 and 2
+Year: 2005
+Volume: 
+
+***********************
+Citation Report:
+A	317
+B	30
+C	17
+***********************
+
