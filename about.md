@@ -78,3 +78,7 @@ Publication
 5. Gu, B., Kale, S.D., **Wang, Q.**, Wang, D., Pan, Q., Cao, H., Meng, Y., Kang, Z., Tyler, B.M. and Shan, W. (*2011*) Rust secreted protein Ps87 is conserved in diverse fungal pathogens and contains a RXLR-like motif sufficient for translocation into plant cells. ***PLoS ONE***, 6: e27217.
 6. Wang, Y., Meng, Y., Zhang, M., Tong, X., **Wang, Q.**, Sun, Y., Quan, J., Govers, F. and Shan, W. (*2011*) Infection of *Arabidopsis thaliana* by *Phytophthora parasitica* and identification of variation in host specificity. ***Molecular Plant Pathology***, 12: 187-201.
 
+See my profile on [Google Scholar][1].
+
+[1]: http://scholar.google.com/citations?user=j26mVdEAAAAJ&hl
+
