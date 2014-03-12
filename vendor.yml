@@ -1,0 +1,5 @@
+# exlude theme files
+- ^_includes/
+- ^_layouts/
+- ^assets/
+- ^images/
