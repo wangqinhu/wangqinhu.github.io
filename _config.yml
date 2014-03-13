@@ -42,4 +42,3 @@ markdown:    redcarpet
 permalink:   /:title/
 
 include: [".htaccess"]
-exclude: ["_include", "_layouts", "assets", "images"]
