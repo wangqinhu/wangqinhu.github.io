@@ -14,6 +14,9 @@ owner:
   twitter:        wangqinhu
   github:         wangqinhu
 
+# Google
+  google_analytics: UA-20201961-3
+
 
 # Links to include in top navigation
 # For external links add external: true
@@ -36,7 +39,7 @@ pygments:    true
 markdown:    redcarpet
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:title/
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["_include", "_layouts", "assets", "images"]
