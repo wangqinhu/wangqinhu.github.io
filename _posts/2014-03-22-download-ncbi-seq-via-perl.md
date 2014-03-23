@@ -57,3 +57,8 @@ sub ask_user {
   return $rc;
 }
 ```
+
+This script is a modified version from [http://eutils.ncbi.nlm.nih.gov/corehtml/query/static/eutils_example.pl][1]
+
+[1]: http://eutils.ncbi.nlm.nih.gov/corehtml/query/static/eutils_example.pl
+
