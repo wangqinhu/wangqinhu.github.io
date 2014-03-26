@@ -13,14 +13,25 @@ image:
 
 >WANG, QINHU :: Curriculum Vitae :: For Hire
 
-```
-PhD student at Northwest A&F University
+Name Card
+---------
 
-E-mail    qinhu.wang@gmail.com
+```
+王秦虎
+西北农林科技大学博士研究生
+关键词    生物信息学，分子生物学，表观遗传学，植物病理学
+联系地址  中国/陕西杨凌邰城路3号/西北农林科技大学/科研楼1104室 712100
+
+Qinhu Wang
+PhD student at Northwest A&F University
+Keywords  Bioinformatics, Molecular Biology, Epigenetics, Plant Pathology
+Address   Room 1104, Research Building, Northwest A&F University
+          3 Taicheng Road, Yangling, Shaanxi, China, 712100
+
+E-mail    wangqinhu@nwafu.edu.cn
 Homepage  http://wangqinhu.com
 Twitter   https://twitter.com/wangqinhu
 GitHub    https://github.com/wangqinhu
-Address   3 Taicheng Road, Yangling, Shaanxi, China, 712100
 
 ```
 
@@ -78,7 +89,7 @@ Publication
 5. Gu, B., Kale, S.D., **Wang, Q.**, Wang, D., Pan, Q., Cao, H., Meng, Y., Kang, Z., Tyler, B.M. and Shan, W. (*2011*) Rust secreted protein Ps87 is conserved in diverse fungal pathogens and contains a RXLR-like motif sufficient for translocation into plant cells. ***PLoS ONE***, 6: e27217.
 6. Wang, Y., Meng, Y., Zhang, M., Tong, X., **Wang, Q.**, Sun, Y., Quan, J., Govers, F. and Shan, W. (*2011*) Infection of *Arabidopsis thaliana* by *Phytophthora parasitica* and identification of variation in host specificity. ***Molecular Plant Pathology***, 12: 187-201.
 
-See my profile on [Google Scholar][1].
+See my profile at [Google Scholar][1].
 
 [1]: http://scholar.google.com/citations?user=j26mVdEAAAAJ&hl
 
