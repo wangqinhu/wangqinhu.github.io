@@ -7,7 +7,7 @@ url:              http://wangqinhu.com
 
 # Owner/author information
 owner:
-  name:           Wang Qinhu
+  name:           Wang, Qinhu
   avatar:         bio-photo.jpg
   bio:            "PhD student at NWAFU"
   email:          qinhu.wang@gmail.com
@@ -25,12 +25,8 @@ links:
     url: /
   - title: Posts
     url: /posts/
-  - title: Message
-    url: /message/
   - title: About
     url: /about/
-  - title: GeneHouse
-    url: /genehouse/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
