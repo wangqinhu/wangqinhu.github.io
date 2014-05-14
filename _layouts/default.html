@@ -37,10 +37,12 @@
         <footer>
           <div>
 			  {% assign first_post = site.posts | last %}
-			  &copy; {{ first_post.date | date: "%Y" }} - {{ site.time | date: "%Y" }} by {{ site.author }}
+			  &copy; {{ first_post.date | date: "%Y" }} - {{ site.time | date: "%Y" }} {{ site.author }}
+			  <extra>
 			  <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i></a>
 			  <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a>
 			  <a href="http://www.revolvermaps.com/?target=enlarge&amp;i={{ site.rms }}"><i class="fa fa-bar-chart-o"></i></a>
+			  </extra>
           </div>
         </footer>
       </div> <!-- main -->

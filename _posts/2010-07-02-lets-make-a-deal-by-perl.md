@@ -3,8 +3,6 @@ layout:	post
 title:	Let's make a deal by Perl
 tags:	[perl, bayesian, make a deal, strategy]
 date:	2010-07-02 11:10:25
-image:
-  feature: L77.jpg
 ---
 
 Let's make a deal is a fashion TV game, here I designed a Perl script to simulate this game and print the result of the game. In fact, this is some basic about Bayesian theory.

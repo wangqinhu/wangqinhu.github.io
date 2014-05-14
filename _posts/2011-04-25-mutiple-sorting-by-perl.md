@@ -3,8 +3,6 @@ layout:	post
 title:	Mutiple sorting by Perl
 tags:	[perl, sort, bowtie, map, bioinformatic]
 date:	2011-04-25 15:45:17
-image:
-  feature: L77.jpg
 ---
 
 Here is the code I used to sort the map file produced by bowtie, few modification should work on your files, hope it useful to you.

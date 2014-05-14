@@ -3,8 +3,6 @@ layout:	post
 title:	Split large HMM file to individual HMM files
 tags:	[HMM, perl, split, file]
 date:   Sun Apr 13 22:19:08 CST 2014
-image:
-  feature: L77.jpg
 ---
 
 Here is a quick script for splilt a single large HMM file into small HMM file individuals, write for Qingdong just now.

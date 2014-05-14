@@ -3,8 +3,6 @@ layout:	post
 title:	Generate a citation report of your publication
 tags:	[perl, citation report, sci, journal, article, author]
 date:	2012-02-16 21:22:52
-image:
-  feature: L77.jpg
 ---
 
 Take the FunCat paper in NAR as an example, following this procedure:  

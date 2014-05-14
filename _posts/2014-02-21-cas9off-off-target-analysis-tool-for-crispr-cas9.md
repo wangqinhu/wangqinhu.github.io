@@ -1,10 +1,8 @@
 ---
 layout:	post
-title:	cas9off - large scale off-target analysis tool for crispr/cas9 system
+title:	Cas9off - large scale off-target analysis tool for crispr/cas9 system
 tags:	[cas9off, off target, crispr, cas9, perl, tool, large scale, offscan.pl]
 date:	2014-02-21 11:56:54
-image:
-  feature: L77.jpg
 ---
 
 cas9off version 1.0

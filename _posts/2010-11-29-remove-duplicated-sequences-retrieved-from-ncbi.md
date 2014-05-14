@@ -3,8 +3,6 @@ layout:	post
 title:	Remove duplicated sequences from NCBI
 tags:	[ncbi, bioinformatic, perl, remove duplication, sequence]
 date:	2010-11-29 12:43:22
-image:
-  feature: L77.jpg
 ---
 
 We usually download sequences from NCBI by one entrez retrieve, but for more than one retrieves, we may get some duplicated sequences, in this case, we often need to remove the duplicated sequences and get a unique sequences set. Here I supply a simple perl script to do this. Please make sure that your sequences with the same ids have the same sequences contents; otherwise this script is not suitable for you.
