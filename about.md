@@ -1,7 +1,6 @@
 ---
 layout: page
 comments: true
-permalink: /about/
 title: About Me
 tagline: about me
 tags: [wang, qinhu, bioinformatic, epigenetic, plant pathology, perl]
@@ -32,7 +31,6 @@ E-mail    wangqinhu@nwafu.edu.cn
 Homepage  http://wangqinhu.com
 Twitter   https://twitter.com/wangqinhu
 GitHub    https://github.com/wangqinhu
-
 ```
 
 Education
