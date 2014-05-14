@@ -1,40 +1,29 @@
-title:            Time & Stuff
-tagline:          wangqinhu
-description:      Qinhu Wang | 王秦虎
+name: "Qinhu Wang | 王秦虎"
+markdown: redcarpet
+pygments: true
+pygments: true
+permalink: /:title
 
-# URL
-url:              http://wangqinhu.com
+author: "Qinhu Wang"
+atom-baseurl: "http://wangqinhu.com"
 
-# Owner/author information
-owner:
-  name:           Wang, Qinhu
-  avatar:         bio-photo.jpg
-  bio:            "PhD student at NWAFU"
-  email:          qinhu.wang@gmail.com
-  twitter:        wangqinhu
-  github:         wangqinhu
+github:  wangqinhu
+twitter: wangqinhu
+disqus:  wangqinhu
+rms:     8tuhaxyvvqh
 
-# Google
-  google_analytics: UA-20201961-3
-
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: Posts
-    url: /posts/
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
   - title: About
-    url: /about/
+    class: fa fa-user
+    href: /about.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Shanghai
-future:      true
-pygments:    true
-markdown:    redcarpet
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:title/
-
-include: [".htaccess"]
+exclude: [README.md]

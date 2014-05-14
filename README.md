@@ -1,1 +1,1 @@
-The theme is orignal cloned from http://mmistakes.github.io/minimal-mistakes
+This is my blog, theme [sext vi](http://lhzhang.com) forked from https://github.com/waynezhang/blog.
