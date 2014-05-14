@@ -3,8 +3,6 @@ layout:	post
 title:	Extract the sequences having significant BLAST hits
 tags:	[blast, perl, bioinformatic, fasta, extract, hits]
 date:	2010-08-30 19:28:32
-image:
-  feature: L77.jpg
 ---
 
 To perform sequences similarity search, we usually use NCBI BLAST. However, we often need to parse the result to split the sequences which have significant and/or insignificant hits, respectively. Here is the sample to do this work via bioperl, I hope it will supply useful information to you. Thank you!

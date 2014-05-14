@@ -3,8 +3,6 @@ layout:	post
 title:	Functional catalogue of customized gene
 tags:	[funcat, perl, Arabidopsis, gene funcation, classification, blast]
 date:	2011-10-24 23:52:09
-image:
-  feature: L77.jpg
 ---
 
 Functional Catalogue (FunCat) is a hierarchically structured, organism-independent, flexible and scalable controlled classification system enabling the functional description of proteins from any organism [1]. Here is my solution to perform FunCat classification in Arabidopsis. Please note in this Perl script, NCBI BLAST was called and bioperl was used to parse the blast result, we use eight cores of CPU in default to perform this analysis.

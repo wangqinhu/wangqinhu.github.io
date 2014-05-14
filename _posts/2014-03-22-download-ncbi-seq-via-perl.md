@@ -3,8 +3,6 @@ layout:	post
 title:	Download NCBI sequence via perl
 tags:	[NCBI, entrez, sequence, perl, database]
 date:   Sat Mar 22 22:55:22 CST 2014
-image:
-  feature: L77.jpg
 ---
 
 Usually, we search the NCBI database via entrez and download the sequences by our browser, however, if you are here, I think maybe you had met a lot of network problems. Here is a perl script helps you to query and download ncbi sequences. Enjoy!

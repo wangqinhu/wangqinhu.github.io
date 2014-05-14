@@ -3,8 +3,6 @@ layout:	post
 title:	Extact fasta sequence from a database by id
 tags:	[fasta, extract, sequence, id, perl, database, list]
 date:   Thu Feb 27 14:47:29 CST 2014
-image:
-  feature: L77.jpg
 ---
 
 It is our routine and frequenct work to extract the fasta sequence from a fasta sequence database file with known id list.

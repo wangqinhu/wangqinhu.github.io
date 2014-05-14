@@ -3,8 +3,6 @@ layout:	post
 title:	Convert bowtie map file into bed and wig format
 tags:	[bowtie, map, bed, wig, bioinformatic, perl]
 date:	2010-06-28 15:53:13
-image:
-  feature: L77.jpg
 ---
 
 Bowtie is a great software for mapping the reads produced by next generation sequencing into genome, however, in many cases, we need to convert its map out into bed or wig format to feed orther applications. Here I supply a simple perl script for doing this, please enjoy!

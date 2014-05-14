@@ -3,9 +3,8 @@ layout: post
 title:	Install zlib/libpng/jpeg/freetype/libgd/GD on Mavericks
 tags:	[mac, osx, libgd, zlib, jpeg, freetype, libpng, GD, 10.9, mavericks, install]
 date:	2013-11-16 09:20:50
-image:
-  feature: L77.jpg
 ---
+
 Various applications depend on library GD, however, you will alway fail on installing GD by CPAN.
 
 I wrapped all the latest of zlib/libpng/jpeg/freetype/libgd/GD moudels and successfully installed GD on Mavericks (Mac OSX 10.9), hope this could help the one who have the similar environments.

@@ -3,8 +3,6 @@ layout: post
 title:	Showing the qPCR data via R
 tags:	[qPCR, RT-PCR, R, barplot, gene, repeat, fold, ddCt, bioinformatic]
 date:	2012-03-10 01:27:33
-image:
-  feature: L77.jpg
 ---
   
 When we have generated a batch of Real-Time quantitative PCR (qPCR) data, to illustrate them, some of the applications may lose their power or generate very ugly graphics, here I supply the following R script to help biologist custom their bar plot (with error bar) when publishing their qPCR data.

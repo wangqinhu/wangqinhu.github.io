@@ -3,8 +3,6 @@ layout:	post
 title:	GoAnna tail
 tags:	[GO, annotation, gene ontology, GoAnna, perl, slim, term, bioinformatic, blast]
 date:	2011-10-11 01:24:09
-image:
-  feature: L77.jpg
 ---
 
 This script was wrote three years ago, now I decide to share the script and hope this could inspire the one who want to perform Gene Ontology (GO) annotation themselves, not by the ready-to-use applications.

@@ -3,8 +3,6 @@ layout:	post
 title:	Parse blast by Perl and format the output
 tags:	[blast, parse, perl, format, output, sequence, fasta, bioperl, bioinformatic]
 date:	2012-08-26 01:14:46
-image:
-  feature: L77.jpg
 ---
 
 Parse blast result is frequently used in our daily research, here is my script for parsing the original blast output, include the full report in tab-delimited format and brief in tab-delimited format, which can be easily identified in Excel or a Text editor.

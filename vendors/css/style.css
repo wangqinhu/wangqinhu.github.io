@@ -9,7 +9,7 @@
  * |/ | (~ (~
  * |\.|._)._)
  * --------------------------------- */
-@import url(/media/fonts/telex-regular.css);
+@import url(/vendors/fonts/telex-regular.css);
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:300);
 * {
   margin: 0;
@@ -46,9 +46,52 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
   a:hover, header #header h1 a:hover, article .title a:hover, article .meta .tags a:hover, article .divider a:hover {
     color: #dd1144; }
 
-blockquote, pre code {
+bib {
   background-color: #f8f8f8;
-  padding: 0 1em;
+  padding: 4px 4px;
+  border: 1px dashed #eee !important;
+  border-color: #e0e0e0 !important;
+  font-size: 13px;
+  font-family: Consolas, Monaco, "Courier New", monospace;
+  line-height: 1.6;
+  display: block;
+  overflow: auto; }
+
+  bib:hover {
+  background-color: #e0e0e0;}
+
+a, header #header h1 a, article .title a, article .meta .tags a, article .divider a {
+  text-decoration: none;
+  color: #bb2222; }
+  a:hover, header #header h1 a:hover, article .title a:hover, article .meta .tags a:hover, article .divider a:hover {
+    color: #dd1144; }
+
+bib {
+  background-color: #f8f8f8;
+  padding: 4px 4px;
+  border: 1px dashed #eee !important;
+  border-color: #e0e0e0 !important;
+  font-size: 13px;
+  font-family: Consolas, Monaco, "Courier New", monospace;
+  line-height: 1.6;
+  display: block;
+  overflow: auto; }
+
+blockquote {
+  white-space: pre;
+  background-color: #f8f8f8;
+  padding: 4px 4px;
+  border: 1px dashed #eee !important;
+  border-color: #e0e0e0 !important;
+  font-size: 13px;
+  font-family: Consolas, Monaco, "Courier New", monospace;
+  line-height: 1.6;
+  display: block;
+  overflow: auto; }
+
+pre code {
+  background-color: #f8f8f8;
+  padding: 0 1em !important;
   border: 1px dashed #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
@@ -61,6 +104,9 @@ code {
   padding: 2px 5px;
   border: 1px dashed #e0e0e0;
   font-family: Consolas, Monaco, "Courier New", monospace; }
+
+  bib:hover, blockquote:hover, code:hover {
+  background-color: #e0e0e0;}
 
 h1, h2 {
   margin:10px 0px;
@@ -185,6 +231,9 @@ footer {
   font-size: .9em;
   text-align: left;
   margin: 4em auto; }
+  footer extra {
+    float: right
+  }
   footer a, footer header #header h1 a, header #header h1 footer a, footer article .title a, article .title footer a, footer article .meta .tags a, article .meta .tags footer a, footer article .divider a, article .divider footer a {
     color: #cccccc; }
     footer a:hover, footer header #header h1 a:hover, header #header h1 footer a:hover, footer article .meta .tags a:hover, article .meta .tags footer a:hover {
@@ -196,23 +245,3 @@ footer {
 .gist {
   font-size: 13px;
   line-height: 1.6; }
-
-.like-button {
-  font-family: Helvetica, Arial;
-  padding-right: 5px; }
-
-.unlike-button {
-  font-family: Helvetica, Arial;
-  padding-right: 5px;
-  color: #999; }
-
-.like-button:hover {
-  color: #dd1144; }
-
-#like-wrapper {
-  color: #999; }
-  #like-wrapper .like-button, #like-wrapper .unlike-button {
-  font-family: Helvetica, Arial;
-  padding-right: 5px; }
-  #like-wrapper .like-button:hover {
-    color: #dd1144; }

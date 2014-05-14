@@ -3,8 +3,6 @@ layout:	post
 title:	Use hash to remove redundance of a table
 tags:	[bioinformatic, perl, redundance, table, hash]
 date:	2010-07-01 11:26:41
-image:
-  feature: L77.jpg
 ---
 
 In some of our daily bioinformatics works, we need to remove the redundancy of a table. Of course you can do this by the system command `sort` (in UNIX/Linux). Here we use Perl to do this, the basic principle is that ___the key of each hash element is unique___.
