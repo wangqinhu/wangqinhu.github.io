@@ -19,7 +19,7 @@ body {
   font-size: 14px;
   font-family: Helvetica, Arial;
   color: #555;
-  background-color: #f9f9f9; }
+  background-color: #ffffff; }
 
 ol, ul {
   list-style-position: inside; }
@@ -31,7 +31,7 @@ hr {
   width: 4em;
   border: none;
   border-top: 1px dashed #d0d0d0;
-  border-bottom: 1px dashed #f9f9f9; }
+  border-bottom: 1px dashed #ffffff; }
 
 .center {
   text-align: center; }
@@ -160,7 +160,7 @@ ul.listing {
     ul.listing li.listing-item time {
       color: #999; }
     ul.listing li.listing-item:hover {
-      background-color: #f9f9f9; }
+      background-color: #ffffff; }
     ul.listing li.listing-seperator {
       font-family: Helvetica, Arial; }
       ul.listing li.listing-seperator:before {
