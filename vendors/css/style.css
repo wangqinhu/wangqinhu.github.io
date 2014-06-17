@@ -30,8 +30,8 @@ li {
 hr {
   width: 4em;
   border: none;
-  border-top: 1px dashed #d0d0d0;
-  border-bottom: 1px dashed #ffffff; }
+  border-top: 1px #d0d0d0;
+  border-bottom: 1px #ffffff; }
 
 .center {
   text-align: center; }
@@ -49,7 +49,7 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
 bib {
   background-color: #f8f8f8;
   padding: 4px 4px;
-  border: 1px dashed #eee !important;
+  border: 1px #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
   font-family: Consolas, Monaco, "Courier New", monospace;
@@ -69,7 +69,7 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
 bib {
   background-color: #f8f8f8;
   padding: 4px 4px;
-  border: 1px dashed #eee !important;
+  border: 1px #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
   font-family: Consolas, Monaco, "Courier New", monospace;
@@ -81,7 +81,7 @@ blockquote {
   white-space: pre;
   background-color: #f8f8f8;
   padding: 4px 4px;
-  border: 1px dashed #eee !important;
+  border: 1px #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
   font-family: Consolas, Monaco, "Courier New", monospace;
@@ -92,7 +92,7 @@ blockquote {
 pre code {
   background-color: #f8f8f8;
   padding: 0 1em !important;
-  border: 1px dashed #eee !important;
+  border: 1px #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
   line-height: 1.6;
@@ -102,7 +102,7 @@ pre code {
 code {
   background-color: #f8f8f8;
   padding: 2px 5px;
-  border: 1px dashed #e0e0e0;
+  border: 1px #e0e0e0;
   font-family: Consolas, Monaco, "Courier New", monospace; }
 
   bib:hover, blockquote:hover, code:hover {
