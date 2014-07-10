@@ -232,7 +232,7 @@ footer {
   text-align: left;
   margin: 4em auto; }
   footer extra {
-    float: right
+    float: right;
   }
   footer a, footer header #header h1 a, header #header h1 footer a, footer article .title a, article .title footer a, footer article .meta .tags a, article .meta .tags footer a, footer article .divider a, article .divider footer a {
     color: #cccccc; }
