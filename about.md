@@ -18,7 +18,7 @@ Name Card
 Qinhu Wang
 PhD student at Northwest A&F University
 Keywords  Bioinformatics, Molecular Biology, Epigenetics, Plant Pathology
-Address   Room 1105, Research Building, Northwest A&F University,
+Address   Room 1104, Research Building, Northwest A&F University,
           3 Taicheng Road, Yangling, Shaanxi, China, 712100
 
 E-mail    wangqinhu@nwafu.edu.cn
@@ -47,7 +47,9 @@ Software
 --------
 
 <blockquote>cas9off   A large scale off-target analysis tool for CRISPR/Cas9 system
-          https://github.com/wangqinhu/cas9off</blockquote>
+          https://github.com/wangqinhu/cas9off
+tsRFinder A tool for tRNA-derived small RNA (tsRNA, tRF) prediction and annotation
+          https://github.com/wangqinhu/tsRFinder</blockquote>
 
 Award & Honor
 -------------
