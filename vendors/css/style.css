@@ -48,7 +48,7 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
 
 bib {
   background-color: #f8f8f8;
-  padding: 4px 4px;
+  padding: 1em 1em;
   border: 1px #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
@@ -66,21 +66,10 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
   a:hover, header #header h1 a:hover, article .title a:hover, article .meta .tags a:hover, article .divider a:hover {
     color: #dd1144; }
 
-bib {
-  background-color: #f8f8f8;
-  padding: 4px 4px;
-  border: 1px #eee !important;
-  border-color: #e0e0e0 !important;
-  font-size: 13px;
-  font-family: Consolas, Monaco, "Courier New", monospace;
-  line-height: 1.6;
-  display: block;
-  overflow: auto; }
-
 blockquote {
   white-space: pre;
   background-color: #f8f8f8;
-  padding: 4px 4px;
+  padding: 1em 1em;
   border: 1px #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
@@ -91,7 +80,7 @@ blockquote {
 
 pre code {
   background-color: #f8f8f8;
-  padding: 0 1em !important;
+  padding: 1em 1em !important;
   border: 1px #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
@@ -101,7 +90,7 @@ pre code {
 
 code {
   background-color: #f8f8f8;
-  padding: 2px 5px;
+  padding: 1em 1em;
   border: 1px #e0e0e0;
   font-family: Consolas, Monaco, "Courier New", monospace; }
 
