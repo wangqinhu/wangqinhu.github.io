@@ -84,5 +84,5 @@ Publication
 <br>
 See my publication at [Google Scholar][1].
 </bib>
-[1]: http://scholar.google.com.cn/citations?user=j26mVdEAAAAJ&hl
+[1]: http://scholar.gfsstp.com/citations?user=j26mVdEAAAAJ&hl
 
