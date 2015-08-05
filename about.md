@@ -37,24 +37,23 @@ Publication
 <bib>
 1.	Tian Y, Yin J, Sun J, Li H, Ma Y, Wang Q, Quan J and Shan W. 2015. Population genetic analysis of Phytophthora infestans in northwestern China. Plant Pathology.
 <br>
-2.	Meng Y, Huang Y, Wang Q, Wen Q, Jia J, Zhang Q, Huang G, Quan J and Shan W. 2015. Phenotypic and genetic characterization of resistance in Arabidopsis thaliana to the oomycete pathogen Phytophthora parasitica. Frontiers in Plant Science, 6: 378.
+2. Meng Y, Zhang Q, Zhang M, Gu B, Huang G, Wang Q and Shan W. 2015. The protein disulfide isomerase 1 of Phytophthora parasitica (PpPDI1) is associated with the haustoria-like structures and contributes to plant infection. Frontiers in Plant Science, 6:632.
 <br>
-3.	Guo X, Zhang T, Hu Z, Zhang Y, Shi Z, Wang Q, Cui Y, Wang F, Zhao H and Chen Y. 2014. Efficient RNA/Cas9-mediated genome editing in Xenopus tropicalis. Development, 141:707-714.
+3.	Meng Y, Huang Y, Wang Q, Wen Q, Jia J, Zhang Q, Huang G, Quan J and Shan W. 2015. Phenotypic and genetic characterization of resistance in Arabidopsis thaliana to the oomycete pathogen Phytophthora parasitica. Frontiers in Plant Science, 6:378.
 <br>
-4.	Zhang M, Meng Y, Wang Q, Liu D, Quan J, Hardham A and Shan W. 2012. PnPMA1, an atypical plasma membrane H+-ATPase, is required for zoospore development in Phytophthora parasitica. Fungal Biology, 116: 1013-1023.
+4.	Guo X, Zhang T, Hu Z, Zhang Y, Shi Z, Wang Q, Cui Y, Wang F, Zhao H and Chen Y. 2014. Efficient RNA/Cas9-mediated genome editing in Xenopus tropicalis. Development, 141:707-714.
 <br>
-5.	Liu J, Luo S, Zhang Q, Wang Q, Chen J, Guo A and Shan W. 2012. Tn5 transposon mutagenesis in Acidovorax citrulli for identification of genes required for pathogenicity on cucumber. Plant Pathology, 61: 364-374.
+5.	Zhang M, Meng Y, Wang Q, Liu D, Quan J, Hardham A and Shan W. 2012. PnPMA1, an atypical plasma membrane H+-ATPase, is required for zoospore development in Phytophthora parasitica. Fungal Biology, 116:1013-1023.
 <br>
-6.	Zhang M, Wang Q, Xu K, Meng Y, Quan J and Shan W. 2011. Production of dsRNA sequences in the host plant is not sufficient to initiate gene silencing in the colonizing oomycete pathogen Phytophthora parasitica. PLoS ONE, 6: e28114.
+6.	Liu J, Luo S, Zhang Q, Wang Q, Chen J, Guo A and Shan W. 2012. Tn5 transposon mutagenesis in Acidovorax citrulli for identification of genes required for pathogenicity on cucumber. Plant Pathology, 61:364-374.
 <br>
-7.	Gu B, Kale SD, Wang Q, Wang D, Pan Q, Cao H, Meng Y, Kang Z, Tyler BM and Shan W. 2011. Rust secreted protein Ps87 is conserved in diverse fungal pathogens and contains a RXLR-like motif sufficient for translocation into plant cells. PLoS ONE, 6: e27217.
+7.	Zhang M, Wang Q, Xu K, Meng Y, Quan J and Shan W. 2011. Production of dsRNA sequences in the host plant is not sufficient to initiate gene silencing in the colonizing oomycete pathogen Phytophthora parasitica. PLoS ONE, 6:e28114.
 <br>
-8.	Wang Y, Meng Y, Zhang M, Tong X, Wang Q, Sun Y, Quan J, Govers F and Shan W. 2011. Infection of Arabidopsis thaliana by Phytophthora parasitica and identification of variation in host specificity. Molecular Plant Pathology, 12: 187-201.
+8.	Gu B, Kale SD, Wang Q, Wang D, Pan Q, Cao H, Meng Y, Kang Z, Tyler BM and Shan W. 2011. Rust secreted protein Ps87 is conserved in diverse fungal pathogens and contains a RXLR-like motif sufficient for translocation into plant cells. PLoS ONE, 6:e27217.
+<br>
+9.	Wang Y, Meng Y, Zhang M, Tong X, Wang Q, Sun Y, Quan J, Govers F and Shan W. 2011. Infection of Arabidopsis thaliana by Phytophthora parasitica and identification of variation in host specificity. Molecular Plant Pathology, 12:187-201.
 <br>
 <br>
 See my publication at [Google Scholar][1].
-<br>
-中国 IP 访客请点击 [谷歌学术][2].
 </bib>
 [1]: http://scholar.google.com/citations?user=j26mVdEAAAAJ&hl
-[2]: http://scholar.glgoo.com/citations?user=j26mVdEAAAAJ&hl
